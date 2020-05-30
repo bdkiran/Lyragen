@@ -1,17 +1,63 @@
 {
-    "songsInLocalEs": [
+    "songList": [
         {
             "artist": "roddy ricch",
-            "title": "the box"
+            "title": "the box",
+            "fetched": true
         },
         {
             "artist": "drake",
-            "title": "toosie slide"
+            "title": "toosie slide",
+            "fetched": true
         },
         {
             "artist": "dababy",
-            "title": "rockstar"
+            "title": "rockstar",
+            "fetched": true
+        },
+        {
+            "artist": "drake",
+            "title": "gods plan",
+            "fetched": true
+        },
+        {
+            "artist": "lil baby",
+            "title": "woah",
+            "fetched": true
+        },
+        {
+            "artist": "drake",
+            "title": "one dance",
+            "fetched": true
+        },
+        {
+            "artist": "future",
+            "title": "low life",
+            "fetched": true
+        },
+        {
+            "artist": "weeknd",
+            "title": "the zone",
+            "fetched": true
+        },
+        {
+            "artist": "weeknd",
+            "title": "starboy",
+            "fetched": true
+        },
+        {
+            "artist": "drake",
+            "title": "sacrifices",
+            "fetched": true,
+            "lyric": "Someone watchin' over us, so shout goes out to-",
+            "lineNumber": 115
+        },
+        {
+            "artist": "lil baby",
+            "title": "all in",
+            "fetched": true,
+            "lyric": "I cannot bargain",
+            "lineNumber": 50
         }
     ]
-
 }
