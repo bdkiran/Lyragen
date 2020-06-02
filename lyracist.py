@@ -6,6 +6,8 @@ import os
 import uuid
 from elasticsearch import Elasticsearch
 
+saveLyricsFlag = False
+
 def getLyricsAsArray(api, songData, retries):
     counter = 0
     while (counter < retries):
@@ -31,7 +33,16 @@ def cleanLyrics(lyricArray):
         elif (re.search(r'\[(.*?)\]', lyricLine)):
             continue
         else:
-            newLyricArray.append(lyricLine)
+            #Encode to find byte sequence causing issues
+            lyric_utf = lyricLine.encode()
+            if(lyric_utf.find(b'\xc3\xa2\xc2\x80\xc2\x99') != -1):
+                #Sequence found, lets replace it with the correct chars
+                cleanCharLyric = lyric_utf.replace(b'\xc3\xa2\xc2\x80\xc2\x99', b"'")
+                #Remember to decode
+                newLyricArray.append(cleanCharLyric.decode())
+            else:
+                #byte sequence was not found, no transformation needed.
+                newLyricArray.append(lyricLine)
 
     return newLyricArray
 
@@ -47,7 +58,7 @@ def storeSongInEs(esApi, songData, lyricArray):
         print(res)
 
 
-def scanFile(filename, api, esApi):
+def fetchSongsFromFile(filename, api, esApi):
     with open(filename) as json_file:
         songsData = json.load(json_file)
         for songData in songsData['songList']:
@@ -55,9 +66,12 @@ def scanFile(filename, api, esApi):
                 lyricArray = getLyricsAsArray(api, songData, 3)
                 #cleans the lyrics data
                 lyricArray = cleanLyrics(lyricArray)
-                storeSongInEs(esApi, songData, lyricArray)
-                songData['fetched'] = True
-                writeToFile(filename, songsData)
+                for lyric in lyricArray:
+                    print(lyric)
+                if esApi != None: 
+                    storeSongInEs(esApi, songData, lyricArray)
+                    songData['fetched'] = True
+                    writeToFile(filename, songsData)
 
 def writeToFile(filename, data):
     # create randomly named temporary file to avoid 
@@ -71,7 +85,12 @@ def writeToFile(filename, data):
 
 
 if __name__ == '__main__':
-    ES = Elasticsearch([{'host':'localhost','port':9200}])
     api = azapi.AZlyrics()
-    scanFile('data.json', api, ES)
+    if saveLyricsFlag: 
+        ES = Elasticsearch([{'host':'localhost','port':9200}])
+        fetchSongsFromFile('data.json', api, ES)
+    else:
+        fetchSongsFromFile('data.json', api, None)
+    
+    
     
