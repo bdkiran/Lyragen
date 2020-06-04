@@ -38,7 +38,7 @@
         {
             "artist": "weeknd",
             "title": "the zone",
-            "fetched": false
+            "fetched": true
         },
         {
             "artist": "weeknd",
@@ -48,16 +48,12 @@
         {
             "artist": "drake",
             "title": "sacrifices",
-            "fetched": true,
-            "lyric": "Someone watchin' over us, so shout goes out to-",
-            "lineNumber": 115
+            "fetched": true
         },
         {
             "artist": "lil baby",
             "title": "all in",
-            "fetched": true,
-            "lyric": "I cannot bargain",
-            "lineNumber": 50
+            "fetched": false
         }
     ]
 }
