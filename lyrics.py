@@ -5,8 +5,12 @@ azApi = azapi.AZlyrics()
 
 def getCleanedLyrics(songData, retries=3):
     lyrics_from_api = getLyricsFromAPI(songData, retries)
-    cleaned_lyrics = cleanLyrics(lyrics_from_api)
-    return cleaned_lyrics
+    if lyrics_from_api == None:
+        print("Error: Unable to fetch: " + songData['title'] + " by " + songData['artist'])
+        return None
+    else:
+        cleaned_lyrics = cleanLyrics(lyrics_from_api)
+        return cleaned_lyrics
 
 def getLyricsFromAPI(songData, retries):
     counter = 0
@@ -20,7 +24,8 @@ def getLyricsFromAPI(songData, retries):
         except:
             print("An exception occurred")
             counter = counter + 1
-
+    
+    return None
     
 def cleanLyrics(lyricArray):
     newLyricArray = []
@@ -45,3 +50,7 @@ def cleanLyrics(lyricArray):
 
     return newLyricArray
 
+# def getArtistSongList(artistName):
+#     songs = azApi.getSongs(artistName)
+#     for song in songs:
+#         print(song)

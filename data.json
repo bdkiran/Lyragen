@@ -6,13 +6,18 @@
             "fetched": true
         },
         {
-            "artist": "drake",
-            "title": "toosie slide",
+            "artist": "roddy ricch",
+            "title": "high fashion",
             "fetched": true
         },
         {
-            "artist": "dababy",
-            "title": "rockstar",
+            "artist": "roddy ricch",
+            "title": "tip toe",
+            "fetched": true
+        },
+        {
+            "artist": "drake",
+            "title": "toosie slide",
             "fetched": true
         },
         {
@@ -21,8 +26,18 @@
             "fetched": true
         },
         {
-            "artist": "lil baby",
-            "title": "woah",
+            "artist": "drake",
+            "title": "one dance",
+            "fetched": true
+        },
+        {
+            "artist": "drake",
+            "title": "money in the grave",
+            "fetched": true
+        },
+        {
+            "artist": "drake",
+            "title": "in my feelings",
             "fetched": true
         },
         {
@@ -31,18 +46,18 @@
             "fetched": true
         },
         {
-            "artist": "future",
-            "title": "low life",
+            "artist": "drake",
+            "title": "mob ties",
             "fetched": true
         },
         {
-            "artist": "weeknd",
-            "title": "the zone",
+            "artist": "drake",
+            "title": "nonstop",
             "fetched": true
         },
         {
-            "artist": "weeknd",
-            "title": "starboy",
+            "artist": "drake",
+            "title": "hotline bling",
             "fetched": true
         },
         {
@@ -51,9 +66,194 @@
             "fetched": true
         },
         {
+            "artist": "dababy",
+            "title": "rockstar",
+            "fetched": true
+        },
+        {
+            "artist": "dababy",
+            "title": "bop",
+            "fetched": true
+        },
+        {
+            "artist": "dababy",
+            "title": "suge",
+            "fetched": true
+        },
+        {
+            "artist": "future",
+            "title": "life is good",
+            "fetched": true
+        },
+        {
+            "artist": "future",
+            "title": "low life",
+            "fetched": true
+        },
+        {
+            "artist": "future",
+            "title": "mask off",
+            "fetched": true
+        },
+        {
+            "artist": "future",
+            "title": "where ya at",
+            "fetched": true
+        },
+        {
+            "artist": "future",
+            "title": "used to this",
+            "fetched": true
+        },
+        {
+            "artist": "weeknd",
+            "title": "starboy",
+            "fetched": true
+        },
+        {
+            "artist": "weeknd",
+            "title": "blinding lights",
+            "fetched": true
+        },
+        {
+            "artist": "weeknd",
+            "title": "in your eyes",
+            "fetched": true
+        },
+        {
+            "artist": "weeknd",
+            "title": "earned it",
+            "fetched": true
+        },
+        {
+            "artist": "lil mosey",
+            "title": "blueberry faygo",
+            "fetched": true
+        },
+        {
+            "artist": "travis scott",
+            "title": "butterfly effect",
+            "fetched": true
+        },
+        {
+            "artist": "travis scott",
+            "title": "highest in the room",
+            "fetched": true
+        },
+        {
+            "artist": "travis scott",
+            "title": "sicko mode",
+            "fetched": true
+        },
+        {
+            "artist": "travis scott",
+            "title": "goosebumps",
+            "fetched": true
+        },
+        {
+            "artist": "travis scott",
+            "title": "pick up the phone",
+            "fetched": true
+        },
+        {
+            "artist": "travis scott",
+            "title": "beibs in the trap",
+            "fetched": true
+        },
+        {
+            "artist": "lil baby",
+            "title": "commercial",
+            "fetched": true
+        },
+        {
             "artist": "lil baby",
             "title": "all in",
-            "fetched": false
+            "fetched": true
+        },
+        {
+            "artist": "lil baby",
+            "title": "sum 2 prove",
+            "fetched": true
+        },
+        {
+            "artist": "lil baby",
+            "title": "woah",
+            "fetched": true
+        },
+        {
+            "artist": "lil baby",
+            "title": "drip too hard",
+            "fetched": true
+        },
+        {
+            "artist": "lil baby",
+            "title": "yes indeed",
+            "fetched": true
+        },
+        {
+            "artist": "migos",
+            "title": "need it",
+            "fetched": true
+        },
+        {
+            "artist": "migos",
+            "title": "bad and boujee",
+            "fetched": true
+        },
+        {
+            "artist": "migos",
+            "title": "slippery",
+            "fetched": true
+        },
+        {
+            "artist": "migos",
+            "title": "walk it talk it",
+            "fetched": true
+        },
+        {
+            "artist": "migos",
+            "title": "motorsport",
+            "fetched": true
+        },
+        {
+            "artist": "migos",
+            "title": "t-shirt",
+            "fetched": true
+        },
+        {
+            "artist": "migos",
+            "title": "what the price",
+            "fetched": true
+        },
+        {
+            "artist": "post malone",
+            "title": "sunflower",
+            "fetched": true
+        },
+        {
+            "artist": "post malone",
+            "title": "circles",
+            "fetched": true
+        },
+        {
+            "artist": "post malone",
+            "title": "better now",
+            "fetched": true
+        },
+        {
+            "artist": "post malone",
+            "title": "congratulations",
+            "fetched": true
+        },
+        {
+            "artist": "post malone",
+            "title": "goodbyes",
+            "fetched": true
+        },
+        {
+            "artist": "post malone",
+            "title": "rockstar",
+            "fetched": true
         }
     ]
 }

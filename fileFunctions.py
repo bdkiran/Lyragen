@@ -9,6 +9,7 @@ def fetchSongs(filename, saveFile):
     if saveFile:
         #Needs to be placed in a better place, environment variables?
         ES_API = Elasticsearch([{'host':'localhost','port':9200}])
+
         fetchSongsFromFile(filename, ES_API)
     else:
         fetchSongsFromFile(filename, None)
@@ -19,6 +20,8 @@ def fetchSongsFromFile(filename, esApi):
         for songData in songsData['songList']:
             if (songData['fetched'] != True):
                 lyricArray = getCleanedLyrics(songData)
+                if lyricArray == None:
+                    continue
                 objectList = createDataForStorage(songData, lyricArray)
                 if esApi != None: 
                     storeSongInEs(esApi, objectList)
@@ -69,5 +72,5 @@ def createDataForStorage(songData, lyricArray):
 def storeSongInEs(esApi, objectsToStore):
     #count is used to create the lyric id/placement in song
     for objectTS in objectsToStore:
-        res = esApi.index(index='song_lyrics', body=(objectTS.__dict__))
+        res = esApi.index(index='music_lyrics', body=(objectTS.__dict__))
         print(res)
