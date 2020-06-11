@@ -66,6 +66,51 @@
             "fetched": true
         },
         {
+            "artist": "Drake",
+            "title": "Marvins Room",
+            "fetched": true
+        },
+        {
+            "artist": "Drake",
+            "title": "Hold on, We're Going Home",
+            "fetched": true
+        },
+        {
+            "artist": "Drake",
+            "title": "The Motto",
+            "fetched": true
+        },
+        {
+            "artist": "Drake",
+            "title": "Take Care",
+            "fetched": true
+        },
+        {
+            "artist": "Drake",
+            "title": "Too Much",
+            "fetched": true
+        },
+        {
+            "artist": "Drake",
+            "title": "Legend",
+            "fetched": true
+        },
+        {
+            "artist": "Drake",
+            "title": "Worst Behavior",
+            "fetched": true
+        },
+        {
+            "artist": "Drake",
+            "title": "Best I Ever Had",
+            "fetched": true
+        },
+        {
+            "artist": "Drake",
+            "title": "Nice for What",
+            "fetched": true
+        },
+        {
             "artist": "dababy",
             "title": "rockstar",
             "fetched": true
@@ -161,6 +206,46 @@
             "fetched": true
         },
         {
+            "artist": "Travis Scott",
+            "title": "Oh My / Dis Side",
+            "fetched": true
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "90210",
+            "fetched": true
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Antidote",
+            "fetched": true
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Drugs You Should Try It",
+            "fetched": true
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "3500",
+            "fetched": true
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Mamacita",
+            "fetched": true
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Way Back",
+            "fetched": true
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Through the Late Night",
+            "fetched": true
+        },
+        {
             "artist": "lil baby",
             "title": "commercial",
             "fetched": true
@@ -226,6 +311,11 @@
             "fetched": true
         },
         {
+            "artist": "Migos",
+            "title": "Get Right Witcha",
+            "fetched": true
+        },
+        {
             "artist": "post malone",
             "title": "sunflower",
             "fetched": true
@@ -253,6 +343,131 @@
         {
             "artist": "post malone",
             "title": "rockstar",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Deja Vu",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "White Iverson",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Sunflower",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Psycho",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Saint-Tropez",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "92-Explorer",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Sugar Wraith",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Same Bitches",
+            "fetched": true
+        },
+        {
+            "artist": "J. Cole",
+            "title": "MIDDLE CHILD",
+            "fetched": true
+        },
+        {
+            "artist": "J. Cole",
+            "title": "No Role Modelz",
+            "fetched": true
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Wet Dreamz",
+            "fetched": true
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Work Out",
+            "fetched": true
+        },
+        {
+            "artist": "J. Cole",
+            "title": "G.O.M.D.",
+            "fetched": true
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Crooked Smile",
+            "fetched": true
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Kevin's Heart",
+            "fetched": true
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Money Trees",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Bitch, Don't Kill My Vibe",
+            "fetched": true
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Humble",
+            "fetched": true
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Swimming Pools",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Poetic Justice",
+            "fetched": true
+        },
+        {
+            "artist": "French Montana",
+            "title": "Unforgettable",
+            "fetched": true
+        },
+        {
+            "artist": "French Montana",
+            "title": "No Stylist",
+            "fetched": true
+        },
+        {
+            "artist": "French Montana",
+            "title": "No Shopping",
+            "fetched": true
+        },
+        {
+            "artist": "French Montana",
+            "title": "Writing on the Wall",
+            "fetched": true
+        },
+        {
+            "artist": "French Montana",
+            "title": "Pop That",
             "fetched": true
         }
     ]
