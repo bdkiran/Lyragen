@@ -1,6 +1,6 @@
 # Lyragen
 
-Lyragen is a python tool to used to aquire song lyrics from AZ lyrics.
+Lyragen is a python tool to used to aquire song lyrics from AZ lyrics. After fetching the lyrics, they are then indexed in an elasticsearch database.
 
 ## Usage
 
