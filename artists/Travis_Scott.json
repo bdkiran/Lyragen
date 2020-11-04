@@ -1,0 +1,424 @@
+{
+    "songList": [
+        {
+            "artist": "Travis Scott",
+            "title": "Pornography",
+            "album": "Rodeo",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Oh My Dis Side",
+            "album": "Rodeo",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "3500",
+            "album": "Rodeo",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Wasted",
+            "album": "Rodeo",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "90210",
+            "album": "Rodeo",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Pray 4 Love",
+            "album": "Rodeo",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Nightcrawler",
+            "album": "Rodeo",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Piss On Your Grave",
+            "album": "Rodeo",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Antidote",
+            "album": "Rodeo",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Impossible",
+            "album": "Rodeo",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Maria I'm Drunk",
+            "album": "Rodeo",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Flying High",
+            "album": "Rodeo",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "I Can Tell",
+            "album": "Rodeo",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Apple Pie",
+            "album": "Rodeo",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Ok Alright",
+            "album": "Rodeo",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Never Catch Me",
+            "album": "Rodeo",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "The Ends",
+            "album": "Birds In The Trap Sing McKnight",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Way Back",
+            "album": "Birds In The Trap Sing McKnight",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Coordinate",
+            "album": "Birds In The Trap Sing McKnight",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Through The Late Night",
+            "album": "Birds In The Trap Sing McKnight",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Beibs In The Trap",
+            "album": "Birds In The Trap Sing McKnight",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "SDP Interlude",
+            "album": "Birds In The Trap Sing McKnight",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Sweet Sweet",
+            "album": "Birds In The Trap Sing McKnight",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Outside",
+            "album": "Birds In The Trap Sing McKnight",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Goosebumps",
+            "album": "Birds In The Trap Sing McKnight",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "First Take",
+            "album": "Birds In The Trap Sing McKnight",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Pick Up The Phone",
+            "album": "Birds In The Trap Sing McKnight",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Lose",
+            "album": "Birds In The Trap Sing McKnight",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Guidance",
+            "album": "Birds In The Trap Sing McKnight",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Wonderful",
+            "album": "Birds In The Trap Sing McKnight",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Modern Slavery",
+            "album": "Huncho Jack, Jack Huncho",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Black & Chinese",
+            "album": "Huncho Jack, Jack Huncho",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Eye 2 Eye",
+            "album": "Huncho Jack, Jack Huncho",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Motorcycle Patches",
+            "album": "Huncho Jack, Jack Huncho",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Huncho Jack",
+            "album": "Huncho Jack, Jack Huncho",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Saint",
+            "album": "Huncho Jack, Jack Huncho",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Go",
+            "album": "Huncho Jack, Jack Huncho",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Dubai Shit",
+            "album": "Huncho Jack, Jack Huncho",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Saint Laurent Mask",
+            "album": "Huncho Jack, Jack Huncho",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Moon Rock",
+            "album": "Huncho Jack, Jack Huncho",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "How U Feel",
+            "album": "Huncho Jack, Jack Huncho",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Where U From",
+            "album": "Huncho Jack, Jack Huncho",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "Best Man",
+            "album": "Huncho Jack, Jack Huncho",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "STARGAZING",
+            "album": "ASTROWORLD",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "CAROUSEL",
+            "album": "ASTROWORLD",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "SICKO MODE",
+            "album": "ASTROWORLD",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "R.I.P. SCREW",
+            "album": "ASTROWORLD",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "STOP TRYING TO BE GOD",
+            "album": "ASTROWORLD",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "NO BYSTANDERS",
+            "album": "ASTROWORLD",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "SKELETONS",
+            "album": "ASTROWORLD",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "WAKE UP",
+            "album": "ASTROWORLD",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "5% TINT",
+            "album": "ASTROWORLD",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "NC-17",
+            "album": "ASTROWORLD",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "ASTROTHUNDER",
+            "album": "ASTROWORLD",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "YOSEMITE",
+            "album": "ASTROWORLD",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "CAN'T SAY",
+            "album": "ASTROWORLD",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "WHO? WHAT!",
+            "album": "ASTROWORLD",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "BUTTERFLY EFFECT",
+            "album": "ASTROWORLD",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "HOUSTONFORNICATION",
+            "album": "ASTROWORLD",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Travis Scott",
+            "title": "COFFEE BEAN",
+            "album": "ASTROWORLD",
+            "year": "2018",
+            "fetched": false
+        }
+    ]
+}

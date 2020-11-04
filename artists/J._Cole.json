@@ -1,0 +1,508 @@
+{
+    "songList": [
+        {
+            "artist": "J. Cole",
+            "title": "Lights Please",
+            "album": "Cole World: The Sideline Story",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "In The Morning",
+            "album": "Cole World: The Sideline Story",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Trouble",
+            "album": "Born Sinner",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Intro",
+            "album": "K.O.D.",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Dollar And A Dream III",
+            "album": "Cole World: The Sideline Story",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Can't Get Enough",
+            "album": "Cole World: The Sideline Story",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Interlude",
+            "album": "Cole World: The Sideline Story",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Sideline Story",
+            "album": "Cole World: The Sideline Story",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Mr. Nice Watch",
+            "album": "Cole World: The Sideline Story",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Cole World",
+            "album": "Cole World: The Sideline Story",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Lost Ones",
+            "album": "Cole World: The Sideline Story",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Nobody's Perfect",
+            "album": "Cole World: The Sideline Story",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Never Told",
+            "album": "Cole World: The Sideline Story",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Rise And Shine",
+            "album": "Cole World: The Sideline Story",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "God's Gift",
+            "album": "Cole World: The Sideline Story",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Breakdown",
+            "album": "Cole World: The Sideline Story",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Work Out",
+            "album": "Cole World: The Sideline Story",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Who Dat?",
+            "album": "Cole World: The Sideline Story",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Daddy's Little Girl",
+            "album": "Cole World: The Sideline Story",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Villuminati",
+            "album": "Born Sinner",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Kerney Sermon (Skit)",
+            "album": "Born Sinner",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Land Of The Snakes",
+            "album": "Born Sinner",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Power Trip",
+            "album": "Born Sinner",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Mo Money (Interlude)",
+            "album": "Born Sinner",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Runaway",
+            "album": "Born Sinner",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "She Knows",
+            "album": "Born Sinner",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Rich Niggaz",
+            "album": "Born Sinner",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Where's Jermaine? (Skit)",
+            "album": "Born Sinner",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Forbidden Fruit",
+            "album": "Born Sinner",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Chaining Day",
+            "album": "Born Sinner",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Ain't That Some Shit (Interlude)",
+            "album": "Born Sinner",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Crooked Smile",
+            "album": "Born Sinner",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Let Nas Down",
+            "album": "Born Sinner",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Born Sinner",
+            "album": "Born Sinner",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Miss America",
+            "album": "Born Sinner",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "New York Times",
+            "album": "Born Sinner",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Is She Gon Pop",
+            "album": "Born Sinner",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Niggaz Know",
+            "album": "Born Sinner",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Sparks Will Fly",
+            "album": "Born Sinner",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "January 28th",
+            "album": "2014 Forest Hills Drive",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Wet Dreamz",
+            "album": "2014 Forest Hills Drive",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "'03 Adolescence",
+            "album": "2014 Forest Hills Drive",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "A Tale Of 2 Citiez",
+            "album": "2014 Forest Hills Drive",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Fire Squad",
+            "album": "2014 Forest Hills Drive",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "St. Tropez",
+            "album": "2014 Forest Hills Drive",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "G.O.M.D.",
+            "album": "2014 Forest Hills Drive",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "No Role Modelz",
+            "album": "2014 Forest Hills Drive",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Hello",
+            "album": "2014 Forest Hills Drive",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Apparently",
+            "album": "2014 Forest Hills Drive",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Love Yourz",
+            "album": "2014 Forest Hills Drive",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Note To Self",
+            "album": "2014 Forest Hills Drive",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "For Whom The Bell Tolls",
+            "album": "4 Your Eyez Only",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Immortal",
+            "album": "4 Your Eyez Only",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Deja Vu",
+            "album": "4 Your Eyez Only",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Ville Mentality",
+            "album": "4 Your Eyez Only",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "She's Mine, Pt. 1",
+            "album": "4 Your Eyez Only",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Change",
+            "album": "4 Your Eyez Only",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Neighbors",
+            "album": "4 Your Eyez Only",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Foldin Clothes",
+            "album": "4 Your Eyez Only",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "She's Mine, Pt. 2",
+            "album": "4 Your Eyez Only",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "4 Your Eyez Only",
+            "album": "4 Your Eyez Only",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "K.O.D.",
+            "album": "K.O.D.",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Photograph",
+            "album": "K.O.D.",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "The Cut Off",
+            "album": "K.O.D.",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "ATM",
+            "album": "K.O.D.",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Motiv8",
+            "album": "K.O.D.",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Kevin's Heart",
+            "album": "K.O.D.",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "BRACKETS",
+            "album": "K.O.D.",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Once An Addict (Interlude)",
+            "album": "K.O.D.",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "FRIENDS",
+            "album": "K.O.D.",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "Window Pain (Outro)",
+            "album": "K.O.D.",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "J. Cole",
+            "title": "1985 (Intro To \"The Fall Off\u00e2\u0080\u009d)",
+            "album": "K.O.D.",
+            "year": "2018",
+            "fetched": false
+        }
+    ]
+}

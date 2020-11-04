@@ -1,0 +1,270 @@
+{
+    "songList": [
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "I'm Sorry",
+            "album": "Eternal Atake",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Secure The Bag",
+            "album": "Eternal Atake",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "XO TOUR Llif3",
+            "album": "Luv Is Rage 2",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Two\u00c2\u00ae",
+            "album": "Luv Is Rage 2",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "444+222",
+            "album": "Luv Is Rage 2",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Sauce It Up",
+            "album": "Luv Is Rage 2",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "No Sleep Leak",
+            "album": "Luv Is Rage 2",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "The Way Life Goes",
+            "album": "Luv Is Rage 2",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "For Real",
+            "album": "Luv Is Rage 2",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Feelings Mutual",
+            "album": "Luv Is Rage 2",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Neon Guts",
+            "album": "Luv Is Rage 2",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Early 20 Rager",
+            "album": "Luv Is Rage 2",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "UnFazed",
+            "album": "Luv Is Rage 2",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Pretty Mami",
+            "album": "Luv Is Rage 2",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "How To Talk",
+            "album": "Luv Is Rage 2",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "X",
+            "album": "Luv Is Rage 2",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Malfunction",
+            "album": "Luv Is Rage 2",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Dark Queen",
+            "album": "Luv Is Rage 2",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Skir Skirr",
+            "album": "Luv Is Rage 2",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Loaded",
+            "album": "Luv Is Rage 2",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Diamonds All On My Wrist",
+            "album": "Luv Is Rage 2",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "20 Min",
+            "album": "Luv Is Rage 2",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Baby Pluto",
+            "album": "Eternal Atake",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Lo Mein",
+            "album": "Eternal Atake",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Silly Watch",
+            "album": "Eternal Atake",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "POP",
+            "album": "Eternal Atake",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "You Better Move",
+            "album": "Eternal Atake",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Homecoming",
+            "album": "Eternal Atake",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Celebration Station",
+            "album": "Eternal Atake",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Bigger Than Life",
+            "album": "Eternal Atake",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Chrome Heart Tags",
+            "album": "Eternal Atake",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Bust Me",
+            "album": "Eternal Atake",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Prices",
+            "album": "Eternal Atake",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Urgency",
+            "album": "Eternal Atake",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Venetia",
+            "album": "Eternal Atake",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "P2",
+            "album": "Eternal Atake",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Futsal Shuffle 2020",
+            "album": "Eternal Atake",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "That Way",
+            "album": "Eternal Atake",
+            "year": "2020",
+            "fetched": false
+        }
+    ]
+}

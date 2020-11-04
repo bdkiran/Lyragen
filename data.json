@@ -1,424 +1,429 @@
 {
     "songList": [
         {
-            "artist": "roddy ricch",
-            "title": "the box",
-            "fetched": true
+            "artist": "Roddy Ricch",
+            "title": "The Box",
+            "fetched": false
         },
         {
-            "artist": "roddy ricch",
-            "title": "high fashion",
-            "fetched": true
+            "artist": "Roddy Ricch",
+            "title": "High Fashion",
+            "fetched": false
         },
         {
-            "artist": "roddy ricch",
-            "title": "tip toe",
-            "fetched": true
+            "artist": "Roddy Ricch",
+            "title": "Tip Toe",
+            "fetched": false
         },
         {
-            "artist": "drake",
-            "title": "toosie slide",
-            "fetched": true
+            "artist": "Roddy Ricch",
+            "title": "Die Young",
+            "fetched": false
         },
         {
-            "artist": "drake",
-            "title": "gods plan",
-            "fetched": true
+            "artist": "Drake",
+            "title": "Toosie Slide",
+            "fetched": false
         },
         {
-            "artist": "drake",
-            "title": "one dance",
-            "fetched": true
+            "artist": "Drake",
+            "title": "Gods Plan",
+            "fetched": false
         },
         {
-            "artist": "drake",
-            "title": "money in the grave",
-            "fetched": true
+            "artist": "Drake",
+            "title": "One Dance",
+            "fetched": false
         },
         {
-            "artist": "drake",
-            "title": "in my feelings",
-            "fetched": true
+            "artist": "Drake",
+            "title": "Money in the Grave",
+            "fetched": false
         },
         {
-            "artist": "drake",
-            "title": "one dance",
-            "fetched": true
+            "artist": "Drake",
+            "title": "In My Feelings",
+            "fetched": false
         },
         {
-            "artist": "drake",
-            "title": "mob ties",
-            "fetched": true
+            "artist": "Drake",
+            "title": "Mob Ties",
+            "fetched": false
         },
         {
-            "artist": "drake",
+            "artist": "Drake",
             "title": "nonstop",
-            "fetched": true
+            "fetched": false
         },
         {
-            "artist": "drake",
+            "artist": "Drake",
             "title": "hotline bling",
-            "fetched": true
+            "fetched": false
         },
         {
-            "artist": "drake",
+            "artist": "Drake",
             "title": "sacrifices",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Drake",
             "title": "Marvins Room",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Drake",
             "title": "Hold on, We're Going Home",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Drake",
             "title": "The Motto",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Drake",
             "title": "Take Care",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Drake",
             "title": "Too Much",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Drake",
             "title": "Legend",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Drake",
             "title": "Worst Behavior",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Drake",
             "title": "Best I Ever Had",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Drake",
             "title": "Nice for What",
-            "fetched": true
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "D4L",
+            "fetched": false
         },
         {
             "artist": "dababy",
             "title": "rockstar",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "dababy",
             "title": "bop",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "dababy",
             "title": "suge",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "future",
             "title": "life is good",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "future",
             "title": "low life",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "future",
             "title": "mask off",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "future",
             "title": "where ya at",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "future",
             "title": "used to this",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "weeknd",
             "title": "starboy",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "weeknd",
             "title": "blinding lights",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "weeknd",
             "title": "in your eyes",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "weeknd",
             "title": "earned it",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "lil mosey",
             "title": "blueberry faygo",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "travis scott",
             "title": "butterfly effect",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "travis scott",
             "title": "highest in the room",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "travis scott",
             "title": "sicko mode",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "travis scott",
             "title": "goosebumps",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "travis scott",
             "title": "pick up the phone",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "travis scott",
             "title": "beibs in the trap",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Travis Scott",
             "title": "Oh My / Dis Side",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Travis Scott",
             "title": "90210",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Travis Scott",
             "title": "Antidote",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Travis Scott",
             "title": "Drugs You Should Try It",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Travis Scott",
             "title": "3500",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Travis Scott",
             "title": "Mamacita",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Travis Scott",
             "title": "Way Back",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Travis Scott",
             "title": "Through the Late Night",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "lil baby",
             "title": "commercial",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "lil baby",
             "title": "all in",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "lil baby",
             "title": "sum 2 prove",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "lil baby",
             "title": "woah",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "lil baby",
             "title": "drip too hard",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "lil baby",
             "title": "yes indeed",
-            "fetched": true
+            "fetched": false
+        },
+        {
+            "artist": "Lil Baby",
+            "title": "Heatin Up",
+            "fetched": false
         },
         {
             "artist": "migos",
             "title": "need it",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "migos",
             "title": "bad and boujee",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "migos",
             "title": "slippery",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "migos",
             "title": "walk it talk it",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "migos",
             "title": "motorsport",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "migos",
             "title": "t-shirt",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "migos",
             "title": "what the price",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Migos",
             "title": "Get Right Witcha",
-            "fetched": true
-        },
-        {
-            "artist": "post malone",
-            "title": "sunflower",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "post malone",
             "title": "circles",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "post malone",
             "title": "better now",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "post malone",
             "title": "congratulations",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "post malone",
             "title": "goodbyes",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "post malone",
             "title": "rockstar",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Post Malone",
             "title": "Deja Vu",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Post Malone",
             "title": "White Iverson",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Post Malone",
             "title": "Sunflower",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Post Malone",
             "title": "Psycho",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Post Malone",
             "title": "Saint-Tropez",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Post Malone",
             "title": "92-Explorer",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Post Malone",
             "title": "Sugar Wraith",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Post Malone",
             "title": "Same Bitches",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "J. Cole",
             "title": "MIDDLE CHILD",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "J. Cole",
             "title": "No Role Modelz",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "J. Cole",
             "title": "Wet Dreamz",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "J. Cole",
             "title": "Work Out",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "J. Cole",
             "title": "G.O.M.D.",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "J. Cole",
             "title": "Crooked Smile",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "J. Cole",
             "title": "Kevin's Heart",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Kendrick Lamar",
@@ -428,47 +433,147 @@
         {
             "artist": "Kendrick Lamar",
             "title": "Bitch, Don't Kill My Vibe",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Kendrick Lamar",
             "title": "Humble",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "Kendrick Lamar",
-            "title": "Swimming Pools",
+            "title": "Swimming Pools (Drank)",
             "fetched": false
         },
         {
             "artist": "Kendrick Lamar",
             "title": "Poetic Justice",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "French Montana",
             "title": "Unforgettable",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "French Montana",
             "title": "No Stylist",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "French Montana",
             "title": "No Shopping",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "French Montana",
             "title": "Writing on the Wall",
-            "fetched": true
+            "fetched": false
         },
         {
             "artist": "French Montana",
             "title": "Pop That",
-            "fetched": true
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "XO TOUR Llif3",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Myron",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "P2",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "Sanguine Paradise",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Uzi Vert",
+            "title": "The Way Life Goes",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Champion",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Turks",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Some Way",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Habits",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Freshman List",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Wolves",
+            "fetched": false
+        },
+        {
+            "artist": "6ix9ine",
+            "title": "GOOBA",
+            "fetched": false
+        },
+        {
+            "artist": "6ix9ine",
+            "title": "TIC TOC",
+            "fetched": false
+        },
+        {
+            "artist": "6ix9ine",
+            "title": "MAMA",
+            "fetched": false
+        },
+        {
+            "artist": "6ix9ine",
+            "title": "FEEFA",
+            "fetched": false
+        },
+        {
+            "artist": "Gunna",
+            "title": "COOLER THAN A BITCH",
+            "fetched": false
+        },
+        {
+            "artist": "Gunna",
+            "title": "Car Sick",
+            "fetched": false
+        },
+        {
+            "artist": "Gunna",
+            "title": "3 Headed Snake",
+            "fetched": false
+        },
+        {
+            "artist": "Gunna",
+            "title": "DOLLAZ ON MY HEAD",
+            "fetched": false
+        },
+        {
+            "artist": "Pop Smoke",
+            "title": "Dior",
+            "fetched": false
         }
     ]
 }

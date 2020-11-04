@@ -1,0 +1,242 @@
+{
+    "songList": [
+        {
+            "artist": "Kodak Black",
+            "title": "Day For Day",
+            "album": "Painting Pictures",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Coolin And Booted",
+            "album": "Painting Pictures",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Candy Paint",
+            "album": "Painting Pictures",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Up In Here",
+            "album": "Painting Pictures",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "U Ain't Never",
+            "album": "Painting Pictures",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Twenty 8",
+            "album": "Painting Pictures",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Patty Cake",
+            "album": "Painting Pictures",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Save You",
+            "album": "Painting Pictures",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Conscience",
+            "album": "Painting Pictures",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Tunnel Vision",
+            "album": "Painting Pictures",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Corrlinks And JPay",
+            "album": "Painting Pictures",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Reminiscing",
+            "album": "Painting Pictures",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Side Nigga",
+            "album": "Painting Pictures",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Off The Land",
+            "album": "Painting Pictures",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Top Off Benz",
+            "album": "Painting Pictures",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Feeling Like",
+            "album": "Painting Pictures",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Why They Call You Kodak",
+            "album": "Painting Pictures",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "There He Go",
+            "album": "Painting Pictures",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Testimony",
+            "album": "Dying To Live",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "This Forever",
+            "album": "Dying To Live",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Identity Theft",
+            "album": "Dying To Live",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Gnarly",
+            "album": "Dying To Live",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "ZEZE",
+            "album": "Dying To Live",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Take One",
+            "album": "Dying To Live",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "MoshPit",
+            "album": "Dying To Live",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Transgression",
+            "album": "Dying To Live",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Malcolm X.X.X.",
+            "album": "Dying To Live",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Calling My Spirit",
+            "album": "Dying To Live",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "In The Flesh",
+            "album": "Dying To Live",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Close To The Grave",
+            "album": "Dying To Live",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "From The Cradle",
+            "album": "Dying To Live",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "If I'm Lyin, I'm Flyin",
+            "album": "Dying To Live",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Needed Something",
+            "album": "Dying To Live",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Kodak Black",
+            "title": "Could Of Been Different",
+            "album": "Dying To Live",
+            "year": "2018",
+            "fetched": false
+        }
+    ]
+}

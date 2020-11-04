@@ -1,0 +1,459 @@
+{
+    "songList": [
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Fuck Your Ethnicity",
+            "album": "Section.80",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Hol' Up",
+            "album": "Section.80",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "A.D.H.D",
+            "album": "Section.80",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "No Make-Up (Her Vice)",
+            "album": "Section.80",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Tammy's Song (Her Evils)",
+            "album": "Section.80",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Chapter Six",
+            "album": "Section.80",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Ronald Reagan Era (His Evils)",
+            "album": "Section.80",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Poe Mans Dreams (His Vice)",
+            "album": "Section.80",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "The Spiteful Chant",
+            "album": "Section.80",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Chapter Ten",
+            "album": "Section.80",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Keisha's Song (Her Pain)",
+            "album": "Section.80",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Rigamortus",
+            "album": "Section.80",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Kush & Corinthians (His Pain)",
+            "album": "Section.80",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Blow My High (Members Only)",
+            "album": "Section.80",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Ab-Soul's Outro",
+            "album": "Section.80",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "HiiiPoWeR",
+            "album": "Section.80",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Sherane A.K.A Master Splinter's Daughter",
+            "album": "Good Kid: M.A.A.D City",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Bitch, Don't Kill My Vibe",
+            "album": "Good Kid: M.A.A.D City",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Backseat Freestyle",
+            "album": "Good Kid: M.A.A.D City",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "The Art Of Peer Pressure",
+            "album": "Good Kid: M.A.A.D City",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Money Trees",
+            "album": "Good Kid: M.A.A.D City",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Poetic Justice",
+            "album": "Good Kid: M.A.A.D City",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Good Kid",
+            "album": "Good Kid: M.A.A.D City",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "m.A.A.d City",
+            "album": "Good Kid: M.A.A.D City",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Swimming Pools (Drank)",
+            "album": "Good Kid: M.A.A.D City",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Sing About Me, I'm Dying Of Thirst",
+            "album": "Good Kid: M.A.A.D City",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Real",
+            "album": "Good Kid: M.A.A.D City",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Compton",
+            "album": "Good Kid: M.A.A.D City",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "The Recipe",
+            "album": "Good Kid: M.A.A.D City",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Black Boy Fly",
+            "album": "Good Kid: M.A.A.D City",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Now Or Never",
+            "album": "Good Kid: M.A.A.D City",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Collect Calls",
+            "album": "Good Kid: M.A.A.D City",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "County Building Blues",
+            "album": "Good Kid: M.A.A.D City",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Swimming Pools (Black Hippy Remix)",
+            "album": "Good Kid: M.A.A.D City",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "The Recipe (Black Hippy Remix)",
+            "album": "Good Kid: M.A.A.D City",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Wesley's Theory",
+            "album": "To Pimp A Butterfly",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "For Free? (Interlude)",
+            "album": "To Pimp A Butterfly",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "King Kunta",
+            "album": "To Pimp A Butterfly",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Institutionalized",
+            "album": "To Pimp A Butterfly",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "These Walls",
+            "album": "To Pimp A Butterfly",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "u",
+            "album": "To Pimp A Butterfly",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Alright",
+            "album": "To Pimp A Butterfly",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "For Sale? (Interlude)",
+            "album": "To Pimp A Butterfly",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Momma",
+            "album": "To Pimp A Butterfly",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Hood Politics",
+            "album": "To Pimp A Butterfly",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "How Much A Dollar Cost",
+            "album": "To Pimp A Butterfly",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Complexion (A Zulu Love)",
+            "album": "To Pimp A Butterfly",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "The Blacker The Berry",
+            "album": "To Pimp A Butterfly",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "You Ain't Gotta Lie (Momma Said)",
+            "album": "To Pimp A Butterfly",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "i",
+            "album": "To Pimp A Butterfly",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "Mortal Man",
+            "album": "To Pimp A Butterfly",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "BLOOD.",
+            "album": "DAMN.",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "DNA.",
+            "album": "DAMN.",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "YAH.",
+            "album": "DAMN.",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "ELEMENT.",
+            "album": "DAMN.",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "FEEL.",
+            "album": "DAMN.",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "LOYALTY.",
+            "album": "DAMN.",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "PRIDE.",
+            "album": "DAMN.",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "HUMBLE.",
+            "album": "DAMN.",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "LUST.",
+            "album": "DAMN.",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "LOVE.",
+            "album": "DAMN.",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "XXX.",
+            "album": "DAMN.",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "FEAR.",
+            "album": "DAMN.",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "GOD.",
+            "album": "DAMN.",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Kendrick Lamar",
+            "title": "DUCKWORTH.",
+            "album": "DAMN.",
+            "year": "2017",
+            "fetched": false
+        }
+    ]
+}

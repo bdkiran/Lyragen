@@ -1,5 +1,8 @@
 import azapi
 import re
+import pprint
+import json
+import time
 
 azApi = azapi.AZlyrics()
 
@@ -50,7 +53,32 @@ def cleanLyrics(lyricArray):
 
     return newLyricArray
 
-# def getArtistSongList(artistName):
-#     songs = azApi.getSongs(artistName)
-#     for song in songs:
-#         print(song)
+def getArtistSongList(artistName, retries):
+    counter = 0
+    while (counter < retries):
+        time.sleep(10)
+        try:
+            print("Fetching Artist Songs: " + artistName)
+            songs = azApi.getSongs(artistName)
+            data = {}
+            data['songList'] = []
+            for key, songDetails in songs.items():
+            #Not sure if we want mixtapes just yet....
+            #or songDetails["type"] == "mixtape")
+            #or songDetails["type"] == "compilation")
+            #singles are listed as 'Others'
+                if (songDetails["type"] == "album"): 
+                    data['songList'].append({
+                    "artist": artistName,
+                    "title": key,
+                    "album": songDetails["album"],
+                    "year": songDetails["year"],
+                    "fetched": False
+                })
+            return data
+        except:
+            print("An exception occurred")
+            counter = counter + 1
+    return None
+
+

@@ -1,0 +1,473 @@
+{
+    "songList": [
+        {
+            "artist": "Nav",
+            "title": "Brown Boy",
+            "album": "Good Intentions",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Reckless",
+            "album": "RECKLESS",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Never Change",
+            "album": "RECKLESS",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Hold Your Hand",
+            "album": "RECKLESS",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Faith",
+            "album": "RECKLESS",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Champion",
+            "album": "RECKLESS",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Glow Up",
+            "album": "RECKLESS",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Just Happened",
+            "album": "RECKLESS",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Wanted You",
+            "album": "RECKLESS",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "With Me",
+            "album": "RECKLESS",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Eat",
+            "album": "RECKLESS",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Freshman List",
+            "album": "RECKLESS",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "What I Need",
+            "album": "RECKLESS",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "To My Grave",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "I'm Ready",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Taking Chances",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Tap",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Tension",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Price on My Head",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Ralo",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Tussin",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Snap",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Hold Your Breath",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Why You Crying Mama",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Time Piece",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Dior Runners",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Vicodin",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Stuck with Me",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Know Me",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Amazing",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Habits",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Rack In My Sleep",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Go To Hell",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "8 To 4",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Never Know",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "OK",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Athlete",
+            "album": "Bad Habits",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Good Intentions (Intro)",
+            "album": "Good Intentions",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "No Debate",
+            "album": "Good Intentions",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "My Business",
+            "album": "Good Intentions",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Turks",
+            "album": "Good Intentions",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Status",
+            "album": "Good Intentions",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Codeine",
+            "album": "Good Intentions",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Saint Laurenttt",
+            "album": "Good Intentions",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Coast To Coast",
+            "album": "Good Intentions",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Spend It",
+            "album": "Good Intentions",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Recap",
+            "album": "Good Intentions",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "She Hurtin",
+            "album": "Good Intentions",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Overdose",
+            "album": "Good Intentions",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Did You Wrong",
+            "album": "Good Intentions",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "My Space",
+            "album": "Good Intentions",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "No Ice",
+            "album": "Good Intentions",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Proud of Me",
+            "album": "Good Intentions",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "I'm Up",
+            "album": "Good Intentions (Brown Boy 2 Deluxe Version)",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Relax",
+            "album": "Good Intentions (Brown Boy 2 Deluxe Version)",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Chirp",
+            "album": "Good Intentions (Brown Boy 2 Deluxe Version)",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Frequently",
+            "album": "Good Intentions (Brown Boy 2 Deluxe Version)",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Sprite Clean",
+            "album": "Good Intentions (Brown Boy 2 Deluxe Version)",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Free Santana",
+            "album": "Good Intentions (Brown Boy 2 Deluxe Version)",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Heat",
+            "album": "Good Intentions (Brown Boy 2 Deluxe Version)",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "No Time",
+            "album": "Good Intentions (Brown Boy 2 Deluxe Version)",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Yessir",
+            "album": "Good Intentions (Brown Boy 2 Deluxe Version)",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Pine Soul",
+            "album": "Good Intentions (Brown Boy 2 Deluxe Version)",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Two Face",
+            "album": "Good Intentions (Brown Boy 2 Deluxe Version)",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Extra",
+            "album": "Good Intentions (Brown Boy 2 Deluxe Version)",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Ain't Goin Back",
+            "album": "Good Intentions (Brown Boy 2 Deluxe Version)",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Nav",
+            "title": "Bag",
+            "album": "Good Intentions (Brown Boy 2 Deluxe Version)",
+            "year": "2020",
+            "fetched": false
+        }
+    ]
+}

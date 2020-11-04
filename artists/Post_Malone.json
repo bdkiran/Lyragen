@@ -1,0 +1,375 @@
+{
+    "songList": [
+        {
+            "artist": "Post Malone",
+            "title": "Money Made Me Do It",
+            "album": "Stoney",
+            "year": "2016",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Broken Whiskey Glass",
+            "album": "Stoney",
+            "year": "2016",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Big Lie",
+            "album": "Stoney",
+            "year": "2016",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Deja Vu",
+            "album": "Stoney",
+            "year": "2016",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "No Option",
+            "album": "Stoney",
+            "year": "2016",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Cold",
+            "album": "Stoney",
+            "year": "2016",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "White Iverson",
+            "album": "Stoney",
+            "year": "2016",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "I Fall Apart",
+            "album": "Stoney",
+            "year": "2016",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Patient",
+            "album": "Stoney",
+            "year": "2016",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Go Flex",
+            "album": "Stoney",
+            "year": "2016",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Feel",
+            "album": "Stoney",
+            "year": "2016",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Too Young",
+            "album": "Stoney",
+            "year": "2016",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Congratulations",
+            "album": "Stoney",
+            "year": "2016",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Up There",
+            "album": "Stoney",
+            "year": "2016",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Yours Truly, Austin Post",
+            "album": "Stoney",
+            "year": "2016",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Leave",
+            "album": "Stoney",
+            "year": "2016",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Hit This Hard",
+            "album": "Stoney",
+            "year": "2016",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Feeling Whitney",
+            "album": "Stoney",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Paranoid",
+            "album": "Beerbongs & Bentleys",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Spoil My Night",
+            "album": "Beerbongs & Bentleys",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Rich & Sad",
+            "album": "Beerbongs & Bentleys",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Zack And Codeine",
+            "album": "Beerbongs & Bentleys",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Takin' Shots",
+            "album": "Beerbongs & Bentleys",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "rockstar",
+            "album": "Beerbongs & Bentleys",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Over Now",
+            "album": "Beerbongs & Bentleys",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Psycho",
+            "album": "Beerbongs & Bentleys",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Better Now",
+            "album": "Beerbongs & Bentleys",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Ball For Me",
+            "album": "Beerbongs & Bentleys",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Otherside",
+            "album": "Beerbongs & Bentleys",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Stay",
+            "album": "Beerbongs & Bentleys",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Blame It On Me",
+            "album": "Beerbongs & Bentleys",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Same Bitches",
+            "album": "Beerbongs & Bentleys",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Jonestown (Interlude)",
+            "album": "Beerbongs & Bentleys",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "92 Explorer",
+            "album": "Beerbongs & Bentleys",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Candy Paint",
+            "album": "Beerbongs & Bentleys",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Sugar Wraith",
+            "album": "Beerbongs & Bentleys",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Hollywood's Bleeding",
+            "album": "Hollywood's Bleeding",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Saint-Tropez",
+            "album": "Hollywood's Bleeding",
+            "year": "2019",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Enemies",
+            "album": "Hollywood's Bleeding",
+            "year": "2019",
+            "fetched": true
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Allergic",
+            "album": "Hollywood's Bleeding",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "A Thousand Bad Times",
+            "album": "Hollywood's Bleeding",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Circles",
+            "album": "Hollywood's Bleeding",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Die For Me",
+            "album": "Hollywood's Bleeding",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "On The Road",
+            "album": "Hollywood's Bleeding",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Take What You Want",
+            "album": "Hollywood's Bleeding",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "I'm Gonna Be",
+            "album": "Hollywood's Bleeding",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Staring At The Sun",
+            "album": "Hollywood's Bleeding",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Sunflower",
+            "album": "Hollywood's Bleeding",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Internet",
+            "album": "Hollywood's Bleeding",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Goodbyes",
+            "album": "Hollywood's Bleeding",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Myself",
+            "album": "Hollywood's Bleeding",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "I Know",
+            "album": "Hollywood's Bleeding",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Post Malone",
+            "title": "Wow.",
+            "album": "Hollywood's Bleeding",
+            "year": "2019",
+            "fetched": false
+        }
+    ]
+}

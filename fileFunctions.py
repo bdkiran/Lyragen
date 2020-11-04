@@ -1,9 +1,15 @@
 import os
 import uuid
 import json
-from lyrics import getCleanedLyrics
+from lyrics import getCleanedLyrics, getArtistSongList
 from elasticsearch import Elasticsearch
 from lyricObject import LyricObject
+
+def fetchAllArtistSongs(filename):
+    with open(filename) as json_file:
+        artistsData = json.load(json_file)
+        for artist in artistsData['artists']:
+            getStoreArtistSongList(artist)
 
 def fetchSongs(filename, saveFile):
     if saveFile:
@@ -70,7 +76,22 @@ def createDataForStorage(songData, lyricArray):
     return lyricObjectList
 
 def storeSongInEs(esApi, objectsToStore):
-    #count is used to create the lyric id/placement in song
     for objectTS in objectsToStore:
         res = esApi.index(index='music_lyrics', body=(objectTS.__dict__))
         print(res)
+
+def getStoreArtistSongList(artistName):
+    data = getArtistSongList(artistName, 3)
+    if (data == None):
+        return
+    fileName = "artists/"+ artistName + ".json"
+    with open(fileName, 'w') as outfile:
+        json.dump(data, outfile, indent=4)
+
+
+#Easy function to remove a song. Must use bool query
+# def removeSongInES(artistName, songName):
+#     q = {'artist': artistName, 'title': songName}
+#     ES_API = Elasticsearch([{'host':'35.192.138.186','port':9200}])
+#     res = ES_API.delete_by_query(index='music_lyrics', body=(q))
+#     print(res)

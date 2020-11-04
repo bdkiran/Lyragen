@@ -1,0 +1,474 @@
+{
+    "songList": [
+        {
+            "artist": "Drake",
+            "title": "Fireworks",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Karaoke",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "The Resistance",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Over",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Show Me A Good Time",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Up All Night",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Fancy",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Shut It Down",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Unforgettable",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Light Up",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Miss Me",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Cece's Interlude",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Find Your Love",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Thank Me Now",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Over My Dead Body",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Shot For Me",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Headlines",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Crew Love",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Take Care",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Marvin's Room",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Buried Alive (Interlude)",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Under Ground Kings",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "We'll Be Fine",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Make Me Proud",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Lord Knows",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Cameras",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Good Ones Go (Interlude)",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Doing It Wrong",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "The Real Her",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "HYFR (Hell Ya Fuckin' Right)",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Look What You've Done",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Practice",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "The Ride",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Hate Sleeping Alone",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "The Motto",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Tuscan Leather",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Furthest Thing",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Started From The Bottom",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Wu-Tang Forever",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Own It",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Worst Behavior",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "From Time",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Hold On We're Going Home",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Connect",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "The Language",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "305 To My City",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Too Much",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Pound Cake / Paris Morton Music 2",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Come Thru",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "All Me",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Keep The Family Close",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "9",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "U With Me?",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Feel No Ways",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Hype",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Weston Road Flows",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Redemption",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "With You",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Faithful",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Still Here",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "One Dance",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Grammys",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Child's Play",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Pop Style",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Too Good",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Summer's Over (Interlude)",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Fire & Desire",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Views",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Hotline Bling",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "God's Plan",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Survival",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Nonstop",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Elevate",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Emotionless",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "I'm Upset",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "8 Out Of 10",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Mob Ties",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Can't Take A Joke",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Sandra's Rose",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Talk Up",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Is There More",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Peak",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Summer Games",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Jaded",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Nice For What",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Finesse",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Ratchet Happy Birthday",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "That's How You Feel",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Blue Tint",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "In My Feelings",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Don't Matter To Me",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "After Dark",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "Final Fantasy",
+            "fetched": false
+        },
+        {
+            "artist": "Drake",
+            "title": "March 14",
+            "fetched": false
+        }
+    ]
+}

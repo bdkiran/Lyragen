@@ -1,0 +1,1033 @@
+{
+    "songList": [
+        {
+            "artist": "Future",
+            "title": "Tony Montana",
+            "album": "Pluto",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Same Damn Time",
+            "album": "Pluto",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "The Future Is Now",
+            "album": "Pluto",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Parachute",
+            "album": "Pluto",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Straight Up",
+            "album": "Pluto",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Astronaut Chick",
+            "album": "Pluto",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Magic (Remix)",
+            "album": "Pluto",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "I'm Trippin'",
+            "album": "Pluto",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Truth Gonna Hurt You",
+            "album": "Pluto",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Neva End",
+            "album": "Pluto",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Permanent Scar",
+            "album": "Pluto",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Long Live The Pimp",
+            "album": "Pluto",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Homicide",
+            "album": "Pluto",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Turn On The Lights",
+            "album": "Pluto",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "You Deserve It",
+            "album": "Pluto",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Fishscale",
+            "album": "Pluto",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Go Harder",
+            "album": "Pluto",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Paradise",
+            "album": "Pluto",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "First Class Flights",
+            "album": "Pluto",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Jealous",
+            "album": "Pluto",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "My",
+            "album": "Pluto",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Same Damn Time (Remix)",
+            "album": "Pluto",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Neva End (Remix)",
+            "album": "Pluto",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Look Ahead",
+            "album": "Honest",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "T-Shirt",
+            "album": "Honest",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Move That Dope",
+            "album": "Honest",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "My Momma",
+            "album": "Honest",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Honest",
+            "album": "Honest",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "I Won",
+            "album": "Honest",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Never Satisfied",
+            "album": "Honest",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "I Be U",
+            "album": "Honest",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Covered N Money",
+            "album": "Honest",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Special",
+            "album": "Honest",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Benz Friendz (Whatchutola)",
+            "album": "Honest",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Blood, Sweat, Tears",
+            "album": "Honest",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Big Rube Speaks",
+            "album": "Honest",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Side Effects",
+            "album": "Honest",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "I'll Be Yours",
+            "album": "Honest",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "How Can I Not",
+            "album": "Honest",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Sh!t",
+            "album": "Honest",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Karate Chop (Remix)",
+            "album": "Honest",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Fuck Up Some Commas",
+            "album": "DS2 (Dirty Sprite 2)",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Real Sisters",
+            "album": "DS2 (Dirty Sprite 2)",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Trap Niggas",
+            "album": "DS2 (Dirty Sprite 2)",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Thought It Was A Drought",
+            "album": "DS2 (Dirty Sprite 2)",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "I Serve The Base",
+            "album": "DS2 (Dirty Sprite 2)",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Where Ya At",
+            "album": "DS2 (Dirty Sprite 2)",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Groupies",
+            "album": "DS2 (Dirty Sprite 2)",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Lil One",
+            "album": "DS2 (Dirty Sprite 2)",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Stick Talk",
+            "album": "DS2 (Dirty Sprite 2)",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Freak Hoe",
+            "album": "DS2 (Dirty Sprite 2)",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Rotation",
+            "album": "DS2 (Dirty Sprite 2)",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Slave Master",
+            "album": "DS2 (Dirty Sprite 2)",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Blow A Bag",
+            "album": "DS2 (Dirty Sprite 2)",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Colossal",
+            "album": "DS2 (Dirty Sprite 2)",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Rich $ex",
+            "album": "DS2 (Dirty Sprite 2)",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Blood On The Money",
+            "album": "DS2 (Dirty Sprite 2)",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "The Percocet & Stripper Joint",
+            "album": "DS2 (Dirty Sprite 2)",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Kno The Meaning",
+            "album": "DS2 (Dirty Sprite 2)",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Ain't No Time",
+            "album": "EVOL",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "In Her Mouth",
+            "album": "EVOL",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Maybach",
+            "album": "EVOL",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Xanny Family",
+            "album": "EVOL",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Lil Haiti Baby",
+            "album": "EVOL",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Photo Copied",
+            "album": "EVOL",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Seven Rings",
+            "album": "EVOL",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Lie To Me",
+            "album": "EVOL",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Program",
+            "album": "EVOL",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Low Life",
+            "album": "EVOL",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Fly Shit Only",
+            "album": "EVOL",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Rent Money",
+            "album": "Future",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Good Dope",
+            "album": "Future",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Zoom",
+            "album": "Future",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Draco",
+            "album": "Future",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Super Trapper",
+            "album": "Future",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "POA",
+            "album": "Future",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Mask Off",
+            "album": "Future",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "High Demand",
+            "album": "Future",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Outta Time",
+            "album": "Future",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Scrape",
+            "album": "Future",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "I'm So Groovy",
+            "album": "Future",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Might As Well",
+            "album": "Future",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Poppin' Tags",
+            "album": "Future",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Massage In My Room",
+            "album": "Future",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Flip",
+            "album": "Future",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "When I Was Broke",
+            "album": "Future",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Feds Did A Sweep",
+            "album": "Future",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "My Collection",
+            "album": "HNDRXX",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Comin Out Strong",
+            "album": "HNDRXX",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Lookin Exotic",
+            "album": "HNDRXX",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Damage",
+            "album": "HNDRXX",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Use Me",
+            "album": "HNDRXX",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Incredible",
+            "album": "HNDRXX",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Testify",
+            "album": "HNDRXX",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Fresh Air",
+            "album": "HNDRXX",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Neva Missa Lost",
+            "album": "HNDRXX",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Keep Quiet",
+            "album": "HNDRXX",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Hallucinating",
+            "album": "HNDRXX",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "I Thank U",
+            "album": "HNDRXX",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "New Illuminati",
+            "album": "HNDRXX",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Turn On Me",
+            "album": "HNDRXX",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Selfish",
+            "album": "HNDRXX",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Solo",
+            "album": "HNDRXX",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Sorry",
+            "album": "HNDRXX",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "PIE",
+            "album": "HNDRXX",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "You Da Baddest",
+            "album": "HNDRXX",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Never Stop",
+            "album": "Future Hndrxx Presents: The WIZRD",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Jumpin On A Jet",
+            "album": "Future Hndrxx Presents: The WIZRD",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Rocket Ship",
+            "album": "Future Hndrxx Presents: The WIZRD",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Temptation",
+            "album": "Future Hndrxx Presents: The WIZRD",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Crushed Up",
+            "album": "Future Hndrxx Presents: The WIZRD",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "F&N",
+            "album": "Future Hndrxx Presents: The WIZRD",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Call The Coroner",
+            "album": "Future Hndrxx Presents: The WIZRD",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Talk Shit Like A Preacher",
+            "album": "Future Hndrxx Presents: The WIZRD",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Promise U That",
+            "album": "Future Hndrxx Presents: The WIZRD",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Stick To The Models",
+            "album": "Future Hndrxx Presents: The WIZRD",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Overdose",
+            "album": "Future Hndrxx Presents: The WIZRD",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Krazy But True",
+            "album": "Future Hndrxx Presents: The WIZRD",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Servin Killa Kam",
+            "album": "Future Hndrxx Presents: The WIZRD",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Baptiize",
+            "album": "Future Hndrxx Presents: The WIZRD",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Unicorn Purp",
+            "album": "Future Hndrxx Presents: The WIZRD",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Goin Dummi",
+            "album": "Future Hndrxx Presents: The WIZRD",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "First Off",
+            "album": "Future Hndrxx Presents: The WIZRD",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Faceshot",
+            "album": "Future Hndrxx Presents: The WIZRD",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Ain't Coming Back",
+            "album": "Future Hndrxx Presents: The WIZRD",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Tricks On Me",
+            "album": "Future Hndrxx Presents: The WIZRD",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Trapped In The Sun",
+            "album": "High Off Life",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Hitek Tek",
+            "album": "High Off Life",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Touch The Sky",
+            "album": "High Off Life",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Solitaires",
+            "album": "High Off Life",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Ridin Strikers",
+            "album": "High Off Life",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "One Of My",
+            "album": "High Off Life",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Posted With Demons",
+            "album": "High Off Life",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Hard To Choose One",
+            "album": "High Off Life",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Trillionaire",
+            "album": "High Off Life",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Harlem Shake",
+            "album": "High Off Life",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Up The River",
+            "album": "High Off Life",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Pray For A Key",
+            "album": "High Off Life",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Too Comfortable",
+            "album": "High Off Life",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "All Bad",
+            "album": "High Off Life",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Outer Space Bih",
+            "album": "High Off Life",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Accepting My Flaws",
+            "album": "High Off Life",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Life Is Good",
+            "album": "High Off Life",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Last Name",
+            "album": "High Off Life",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Tycoon",
+            "album": "High Off Life",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "100 Shooters",
+            "album": "High Off Life",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Future",
+            "title": "Life Is Good (Remix)",
+            "album": "High Off Life",
+            "year": "2020",
+            "fetched": false
+        }
+    ]
+}

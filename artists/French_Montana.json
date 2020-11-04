@@ -1,0 +1,501 @@
+{
+    "songList": [
+        {
+            "artist": "French Montana",
+            "title": "Ocho Cinco",
+            "album": "Excuse My French",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Once In A While",
+            "album": "Excuse My French",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Trap House",
+            "album": "Excuse My French",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Ain't Worried About Nothin'",
+            "album": "Excuse My French",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Paranoid",
+            "album": "Excuse My French",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "When I Want",
+            "album": "Excuse My French",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Fuck What Happens Tonight",
+            "album": "Excuse My French",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Gifted",
+            "album": "Excuse My French",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Ballin' Out",
+            "album": "Excuse My French",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "I Told Em",
+            "album": "Excuse My French",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Pop That",
+            "album": "Excuse My French",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Freaks",
+            "album": "Excuse My French",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "We Go Where Ever We Want",
+            "album": "Excuse My French",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Bust It Open",
+            "album": "Excuse My French",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Drink Freely",
+            "album": "Excuse My French",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Throw It In The Bag",
+            "album": "Excuse My French",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Marble Floors",
+            "album": "Excuse My French",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "40",
+            "album": "Excuse My French",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "If I Die",
+            "album": "Excuse My French",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Hey My Guy",
+            "album": "Excuse My French",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Ghetto Prayer",
+            "album": "Excuse My French",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Ready / Intro",
+            "album": "MC4",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Play Yaself",
+            "album": "MC4",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "No Shopping",
+            "album": "MONTANA",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "2 Times",
+            "album": "MC4",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Everytime",
+            "album": "MC4",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Said N Done",
+            "album": "MC4",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "I'm Heated",
+            "album": "MC4",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Lockjaw",
+            "album": "MONTANA",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Check Come",
+            "album": "MC4",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Brick Road",
+            "album": "MC4",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "XPlicit",
+            "album": "MC4",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Figure it Out",
+            "album": "MC4",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Have Mercy",
+            "album": "MC4",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Chinx & Max / Paid For",
+            "album": "MC4",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Whiskey Eyes",
+            "album": "Jungle Rules",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Unforgettable",
+            "album": "Jungle Rules",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Trippin",
+            "album": "Jungle Rules",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "A Lie",
+            "album": "Jungle Rules",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Jump",
+            "album": "Jungle Rules",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Hotel Bathroom",
+            "album": "Jungle Rules",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Bring Dem Things",
+            "album": "Jungle Rules",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Bag",
+            "album": "Jungle Rules",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Migo Montana",
+            "album": "Jungle Rules",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "No Pressure",
+            "album": "Jungle Rules",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Push Up",
+            "album": "Jungle Rules",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Stop It",
+            "album": "Jungle Rules",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Black Out",
+            "album": "Jungle Rules",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "She Workin",
+            "album": "Jungle Rules",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Formula",
+            "album": "Jungle Rules",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Famous",
+            "album": "Jungle Rules",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Too Much",
+            "album": "Jungle Rules",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "White Dress",
+            "album": "Jungle Rules",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "No Stylist",
+            "album": "MONTANA",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Montana",
+            "album": "MONTANA",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Suicide Doors",
+            "album": "MONTANA",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "50's & 100's",
+            "album": "MONTANA",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "What It Look Like",
+            "album": "MONTANA",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Lifestyle",
+            "album": "MONTANA",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Salam Alaykum",
+            "album": "MONTANA",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "That Way",
+            "album": "MONTANA",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Say Goodbye",
+            "album": "MONTANA",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Coke Wave Boys",
+            "album": "MONTANA",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Writing On The Wall",
+            "album": "MONTANA",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Out Of Your Mind",
+            "album": "MONTANA",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Wanna Be",
+            "album": "MONTANA",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Twisted",
+            "album": "MONTANA",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Hoop",
+            "album": "MONTANA",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Wiggle It",
+            "album": "MONTANA",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Slide",
+            "album": "MONTANA",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "French Montana",
+            "title": "Saucy",
+            "album": "MONTANA",
+            "year": "2019",
+            "fetched": false
+        }
+    ]
+}

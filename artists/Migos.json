@@ -1,0 +1,361 @@
+{
+    "songList": [
+        {
+            "artist": "Migos",
+            "title": "Memoirs",
+            "album": "Yung Rich Nation",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Dab Daddy",
+            "album": "Yung Rich Nation",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Migos Origin",
+            "album": "Yung Rich Nation",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Spray The Champagne",
+            "album": "Yung Rich Nation",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Street Nigga Sacrifice",
+            "album": "Yung Rich Nation",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Highway 85",
+            "album": "Yung Rich Nation",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "One Time",
+            "album": "Yung Rich Nation",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Just For Tonight",
+            "album": "Yung Rich Nation",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Gangsta Rap",
+            "album": "Yung Rich Nation",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Playa Playa",
+            "album": "Yung Rich Nation",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Cocaina",
+            "album": "Yung Rich Nation",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Trap Funk",
+            "album": "Yung Rich Nation",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "What A Feeling",
+            "album": "Yung Rich Nation",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Recognition",
+            "album": "Yung Rich Nation",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Culture",
+            "album": "Culture",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "T-Shirt",
+            "album": "Culture",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Call Casting",
+            "album": "Culture",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Bad And Boujee",
+            "album": "Culture",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Get Right Witcha",
+            "album": "Culture",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Slippery",
+            "album": "Culture",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Big On Big",
+            "album": "Culture",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "What The Price",
+            "album": "Culture",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Brown Paper Bag",
+            "album": "Culture",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Deadz",
+            "album": "Culture",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "All Ass",
+            "album": "Culture",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Kelly Price",
+            "album": "Culture",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Out Yo Way",
+            "album": "Culture",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Higher We Go (Intro)",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Supastars",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Narcos",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "BBO (Bad Bitches Only)",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Auto Pilot (Huncho On The Beat)",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Walk It Talk It",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Emoji A Chain",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "CC",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Stir Fry",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Too Much Jewelry",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Gang Gang",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "White Sand",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Crown The Kings",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Flooded",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Beast",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Open It Up",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "MotorSport",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Movin' Too Fast",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Work Hard",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Notice Me",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Too Playa",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Made Men",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Top Down On Da NAWF",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Migos",
+            "title": "Culture National Anthem (Outro)",
+            "album": "Culture II",
+            "year": "2018",
+            "fetched": false
+        }
+    ]
+}
