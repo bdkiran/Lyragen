@@ -15,7 +15,6 @@ def fetchSongs(filename, saveFile):
     if saveFile:
         #Needs to be placed in a better place, environment variables?
         ES_API = Elasticsearch([{'host':'localhost','port':9200}])
-
         fetchSongsFromFile(filename, ES_API)
     else:
         fetchSongsFromFile(filename, None)
@@ -37,6 +36,7 @@ def fetchSongsFromFile(filename, esApi):
                     print("lyrics: " + str(len(lyricArray)))
                     print("Objects: " + str(len(objectList)))
                     for o in objectList:
+                        o.createLyricLineID()
                         print(o.__dict__)
                     
 
@@ -72,7 +72,7 @@ def createDataForStorage(songData, lyricArray):
                 lo.addLyric(lyric, counter)
                 lyricObjectList.append(lo)
                 counter = counter + 1
-            
+    
     return lyricObjectList
 
 def storeSongInEs(esApi, objectsToStore):
