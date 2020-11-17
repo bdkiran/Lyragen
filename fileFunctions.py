@@ -25,7 +25,7 @@ def fetchSongsFromFile(filename, esApi):
         songsData = json.load(json_file)
         for songData in songsData['songList']:
             if (songData['fetched'] != True):
-                lyricArray = getCleanedLyrics(songData)
+                lyricArray = getCleanedLyrics(songData, 2)
                 if lyricArray == None:
                     continue
                 objectList = createDataForStorage(songData, lyricArray)

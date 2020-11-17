@@ -13,7 +13,8 @@ def findSongFiles():
     return allFiles
 
 if __name__ == '__main__':
-    songFiles = findSongFiles()
-    for file in songFiles:
-        fetchSongs(file, saveLyricsFlag)
-    #fetchAllArtistSongs('artists/allArtists.json')
+    fetchAllArtistSongs('allArtists.json')
+    # songFiles = findSongFiles()
+    # for file in songFiles:
+    #     fetchSongs(file, saveLyricsFlag)
+    
