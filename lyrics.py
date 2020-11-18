@@ -4,8 +4,8 @@ import pprint
 import json
 import time
 
-API = azapi.AZlyrics('google', accuracy=0.5)
-#azApi = azapi.AZlyrics()
+
+azAPI = azapi.AZlyrics('duckduckgo', accuracy=0.01)
 
 def getCleanedLyrics(songData, retries=3):
     lyrics_from_api = getLyricsFromAPI(songData, retries)
@@ -23,10 +23,10 @@ def getLyricsFromAPI(songData, retries):
         print("Attempting to fetch: " + songData['title'] + " by " + songData['artist'])
         print("------------------------------")
         try:
-            API.artist = songData['artist']
-            API.title = songData['title'],
-            lyrics = azApi.getLyrics(save=False, sleep=10)
-            return lyrics.splitlines()
+            azAPI.artist = songData['artist']
+            azAPI.title = songData['title']
+            azAPI.getLyrics(save=False, sleep=10)
+            return azAPI.lyrics.splitlines()
         except:
             print("An exception occurred")
             counter = counter + 1
@@ -56,14 +56,14 @@ def cleanLyrics(lyricArray):
 
     return newLyricArray
 
-def getArtistSongList(artistName, retries):
+def getArtistSongList(artistName, retries=1):
     counter = 0
     while (counter < retries):
         time.sleep(10)
         try:
             print("Fetching Artist Songs: " + artistName)
-            API.artist = artistName
-            songs = API.getSongs()
+            azAPI.artist = artistName
+            songs = azAPI.getSongs()
             data = {}
             data['songList'] = []
             for key, songDetails in songs.items():

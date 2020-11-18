@@ -9,13 +9,13 @@ def fetchAllArtistSongs(filename):
     with open(filename) as json_file:
         artistsData = json.load(json_file)
         for artist in artistsData['artists']:
+            print('https://www.azlyrics.com/{}/{}.html'.format(artist[0], artist))
             getStoreArtistSongList(artist)
 
 def fetchSongs(filename, saveFile):
     if saveFile:
         #Needs to be placed in a better place, environment variables?
-        ES_API = Elasticsearch([{'host':'localhost','port':9200}])
-
+        ES_API = Elasticsearch([{'host':'192.168.1.40','port':9200}])
         fetchSongsFromFile(filename, ES_API)
     else:
         fetchSongsFromFile(filename, None)
@@ -37,6 +37,7 @@ def fetchSongsFromFile(filename, esApi):
                     print("lyrics: " + str(len(lyricArray)))
                     print("Objects: " + str(len(objectList)))
                     for o in objectList:
+                        o.createLyricDocID()
                         print(o.__dict__)
                     
 
@@ -72,11 +73,12 @@ def createDataForStorage(songData, lyricArray):
                 lo.addLyric(lyric, counter)
                 lyricObjectList.append(lo)
                 counter = counter + 1
-            
+    
     return lyricObjectList
 
 def storeSongInEs(esApi, objectsToStore):
     for objectTS in objectsToStore:
+        objectTS.createLyricDocID()
         res = esApi.index(index='music_lyrics', body=(objectTS.__dict__))
         print(res)
 
