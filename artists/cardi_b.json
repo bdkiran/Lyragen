@@ -1,0 +1,102 @@
+{
+    "songList": [
+        {
+            "artist": "Cardi B",
+            "title": "Get Up 10",
+            "album": "Invasion Of Privacy",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Cardi B",
+            "title": "Drip",
+            "album": "Invasion Of Privacy",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Cardi B",
+            "title": "Bickenhead",
+            "album": "Invasion Of Privacy",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Cardi B",
+            "title": "Bodak Yello",
+            "album": "Invasion Of Privacy",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Cardi B",
+            "title": "Be Careful",
+            "album": "Invasion Of Privacy",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Cardi B",
+            "title": "Best Life",
+            "album": "Invasion Of Privacy",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Cardi B",
+            "title": "I Like It",
+            "album": "Invasion Of Privacy",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Cardi B",
+            "title": "Ring",
+            "album": "Invasion Of Privacy",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Cardi B",
+            "title": "Money Bag",
+            "album": "Invasion Of Privacy",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Cardi B",
+            "title": "Bartier Cardi",
+            "album": "Invasion Of Privacy",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Cardi B",
+            "title": "She Bad",
+            "album": "Invasion Of Privacy",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Cardi B",
+            "title": "Thru Your Phone",
+            "album": "Invasion Of Privacy",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Cardi B",
+            "title": "I Do",
+            "album": "Invasion Of Privacy",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Cardi B",
+            "title": "WAP",
+            "album": "Single",
+            "year": "2020",
+            "fetched": false
+        }
+    ]
+}

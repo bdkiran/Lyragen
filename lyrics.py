@@ -5,7 +5,7 @@ import json
 import time
 
 
-azAPI = azapi.AZlyrics('duckduckgo', accuracy=0.01)
+azAPI = azapi.AZlyrics()
 
 def getCleanedLyrics(songData, retries=3):
     lyrics_from_api = getLyricsFromAPI(songData, retries)
@@ -25,10 +25,12 @@ def getLyricsFromAPI(songData, retries):
         try:
             azAPI.artist = songData['artist']
             azAPI.title = songData['title']
-            azAPI.getLyrics(save=False, sleep=10)
+            res = azAPI.getLyrics(save=False, sleep=10)
+            if type(res) == int:
+                raise ValueError('Unable to fetch lyrics. API error code: ' + str(res))
             return azAPI.lyrics.splitlines()
-        except:
-            print("An exception occurred")
+        except ValueError as error:
+            print(error)
             counter = counter + 1
     
     return None

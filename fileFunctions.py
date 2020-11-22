@@ -1,6 +1,7 @@
 import os
 import uuid
 import json
+import time
 from lyrics import getCleanedLyrics, getArtistSongList
 from elasticsearch import Elasticsearch
 from lyricObject import LyricObject
@@ -83,7 +84,7 @@ def storeSongInEs(esApi, objectsToStore):
         print(res)
 
 def getStoreArtistSongList(artistName):
-    data = getArtistSongList(artistName, 3)
+    data = getArtistSongList(artistName, 1)
     if (data == None):
         return
     fileName = "artists/"+ artistName + ".json"
@@ -97,3 +98,61 @@ def getStoreArtistSongList(artistName):
 #     ES_API = Elasticsearch([{'host':'35.192.138.186','port':9200}])
 #     res = ES_API.delete_by_query(index='music_lyrics', body=(q))
 #     print(res)
+
+#Get all songs from the ES database
+def allSongsESDatabase():
+    ES_client = Elasticsearch([{'host':'192.168.1.40','port':9200}])
+    
+    document_count = 0
+    start_time = time.time()
+
+    songdata = {}
+    songdata['songList'] = []
+
+    search_body = {
+        "size": 50,
+        "query": {
+            "match_all": {}
+        }
+    }
+
+    resp = ES_client.search(
+        index = 'music_lyrics',
+        body = search_body,
+        scroll = '5s'
+    )
+
+    scroll_id = resp['_scroll_id']
+
+    
+    while len(resp['hits']['hits']):
+        for doc in resp['hits']['hits']:
+            document_count += 1
+            docDetails = doc['_source']
+
+            song = {
+                "aritst": docDetails["artist"],
+                "title": docDetails["title"] 
+            }
+            if any(song == x  for x in songdata['songList']):
+                continue
+            else:
+                print(song)
+                songdata['songList'].append(song)
+                    
+        resp = ES_client.scroll(
+            scroll_id = scroll_id,
+            scroll= '5s'
+        )
+
+        if scroll_id != resp['_scroll_id']:
+            scroll_id = resp['_scroll_id']
+
+    print(document_count)
+    print ("TOTAL TIME:", time.time() - start_time, "seconds.")
+
+    fileName = "allSongs.json"
+    with open(fileName, 'w') as outfile:
+        json.dump(songdata, outfile, indent=4)
+
+# def updateProductionESCluster():
