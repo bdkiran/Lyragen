@@ -1,6 +1,7 @@
 import os
 import uuid
 import json
+import time
 from lyrics import getCleanedLyrics, getArtistSongList
 from elasticsearch import Elasticsearch
 from lyricObject import LyricObject
@@ -9,12 +10,13 @@ def fetchAllArtistSongs(filename):
     with open(filename) as json_file:
         artistsData = json.load(json_file)
         for artist in artistsData['artists']:
+            print('https://www.azlyrics.com/{}/{}.html'.format(artist[0], artist))
             getStoreArtistSongList(artist)
 
 def fetchSongs(filename, saveFile):
     if saveFile:
         #Needs to be placed in a better place, environment variables?
-        ES_API = Elasticsearch([{'host':'localhost','port':9200}])
+        ES_API = Elasticsearch([{'host':'192.168.1.40','port':9200}])
         fetchSongsFromFile(filename, ES_API)
     else:
         fetchSongsFromFile(filename, None)
@@ -24,7 +26,7 @@ def fetchSongsFromFile(filename, esApi):
         songsData = json.load(json_file)
         for songData in songsData['songList']:
             if (songData['fetched'] != True):
-                lyricArray = getCleanedLyrics(songData)
+                lyricArray = getCleanedLyrics(songData, 2)
                 if lyricArray == None:
                     continue
                 objectList = createDataForStorage(songData, lyricArray)
@@ -36,7 +38,7 @@ def fetchSongsFromFile(filename, esApi):
                     print("lyrics: " + str(len(lyricArray)))
                     print("Objects: " + str(len(objectList)))
                     for o in objectList:
-                        o.createLyricLineID()
+                        o.createLyricDocID()
                         print(o.__dict__)
                     
 
@@ -77,11 +79,12 @@ def createDataForStorage(songData, lyricArray):
 
 def storeSongInEs(esApi, objectsToStore):
     for objectTS in objectsToStore:
+        objectTS.createLyricDocID()
         res = esApi.index(index='music_lyrics', body=(objectTS.__dict__))
         print(res)
 
 def getStoreArtistSongList(artistName):
-    data = getArtistSongList(artistName, 3)
+    data = getArtistSongList(artistName, 1)
     if (data == None):
         return
     fileName = "artists/"+ artistName + ".json"
@@ -129,4 +132,58 @@ def createUpdatedArtistFiles():
             with open(fileName, 'w') as outfile:
                 json.dump(artistDict, outfile, indent=4)
 
-        
+def allSongsESDatabase():
+    ES_client = Elasticsearch([{'host':'192.168.1.40','port':9200}])
+    
+    document_count = 0
+    start_time = time.time()
+
+    songdata = {}
+    songdata['songList'] = []
+
+    search_body = {
+        "size": 50,
+        "query": {
+            "match_all": {}
+        }
+    }
+
+    resp = ES_client.search(
+        index = 'music_lyrics',
+        body = search_body,
+        scroll = '5s'
+    )
+
+    scroll_id = resp['_scroll_id']
+
+    
+    while len(resp['hits']['hits']):
+        for doc in resp['hits']['hits']:
+            document_count += 1
+            docDetails = doc['_source']
+
+            song = {
+                "aritst": docDetails["artist"],
+                "title": docDetails["title"] 
+            }
+            if any(song == x  for x in songdata['songList']):
+                continue
+            else:
+                print(song)
+                songdata['songList'].append(song)
+                    
+        resp = ES_client.scroll(
+            scroll_id = scroll_id,
+            scroll= '5s'
+        )
+
+        if scroll_id != resp['_scroll_id']:
+            scroll_id = resp['_scroll_id']
+
+    print(document_count)
+    print ("TOTAL TIME:", time.time() - start_time, "seconds.")
+
+    fileName = "allSongs.json"
+    with open(fileName, 'w') as outfile:
+        json.dump(songdata, outfile, indent=4)
+

@@ -1,0 +1,480 @@
+{
+    "songList": [
+        {
+            "artist": "Meek Mill",
+            "title": "Intro",
+            "album": "Championships",
+            "year": "2018",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Amen",
+            "album": "Dreams & Nightmares",
+            "year": "2012",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Burn",
+            "album": "Dreams & Nightmares",
+            "year": "2012",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Dreams & Nightmares",
+            "album": "Dreams & Nightmares",
+            "year": "2012",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "In God We Trust",
+            "album": "Dreams & Nightmares",
+            "year": "2012",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Young & Gettin' It",
+            "album": "Dreams & Nightmares",
+            "year": "2012",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Traumatized",
+            "album": "Dreams & Nightmares",
+            "year": "2012",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Believe It",
+            "album": "Dreams & Nightmares",
+            "year": "2012",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Maybach Curtains",
+            "album": "Dreams & Nightmares",
+            "year": "2012",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Young Kings",
+            "album": "Dreams & Nightmares",
+            "year": "2012",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Lay Up",
+            "album": "Dreams & Nightmares",
+            "year": "2012",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Tony Story (Pt. 2)",
+            "album": "Dreams & Nightmares",
+            "year": "2012",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Who You're Around",
+            "album": "Dreams & Nightmares",
+            "year": "2012",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Polo & Shell Tops",
+            "album": "Dreams & Nightmares",
+            "year": "2012",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Rich & Famous",
+            "album": "Dreams & Nightmares",
+            "year": "2012",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Real Niggas Come First",
+            "album": "Dreams & Nightmares",
+            "year": "2012",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Freak Show",
+            "album": "Dreams & Nightmares",
+            "year": "2012",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Lord Knows",
+            "album": "Dreams Worth More Than Money",
+            "year": "2015",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Classic",
+            "album": "Dreams Worth More Than Money",
+            "year": "2015",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Jump Out The Face",
+            "album": "Dreams Worth More Than Money",
+            "year": "2015",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "All Eyes On You",
+            "album": "Dreams Worth More Than Money",
+            "year": "2015",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "The Trillest",
+            "album": "Dreams Worth More Than Money",
+            "year": "2015",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "R.I.C.O.",
+            "album": "Dreams Worth More Than Money",
+            "year": "2015",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "I Got The Juice",
+            "album": "Dreams Worth More Than Money",
+            "year": "2015",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Ambitionz",
+            "album": "Dreams Worth More Than Money",
+            "year": "2015",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Pullin' Up",
+            "album": "Dreams Worth More Than Money",
+            "year": "2015",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Check",
+            "album": "Dreams Worth More Than Money",
+            "year": "2015",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Been That",
+            "album": "Dreams Worth More Than Money",
+            "year": "2015",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Bad For You",
+            "album": "Dreams Worth More Than Money",
+            "year": "2015",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Stand Up",
+            "album": "Dreams Worth More Than Money",
+            "year": "2015",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Cold Hearted",
+            "album": "Dreams Worth More Than Money",
+            "year": "2015",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "My Niggas",
+            "album": "Dreams Worth More Than Money",
+            "year": "2015",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Main",
+            "album": "Dreams Worth More Than Money",
+            "year": "2015",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Wins & Losses",
+            "album": "Wins & Losses",
+            "year": "2017",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Heavy Heart",
+            "album": "Wins & Losses",
+            "year": "2017",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Fuck That Check Up",
+            "album": "Wins & Losses",
+            "year": "2017",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Whatever You Need",
+            "album": "Wins & Losses",
+            "year": "2017",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "1942 Flows",
+            "album": "Wins & Losses",
+            "year": "2017",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Issues",
+            "album": "Wins & Losses",
+            "year": "2017",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "We Ball",
+            "album": "Wins & Losses",
+            "year": "2017",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "These Scars",
+            "album": "Wins & Losses",
+            "year": "2017",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Connect The Dots",
+            "album": "Wins & Losses",
+            "year": "2017",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Fall Thru",
+            "album": "Wins & Losses",
+            "year": "2017",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Never Lose",
+            "album": "Wins & Losses",
+            "year": "2017",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Glow Up",
+            "album": "Wins & Losses",
+            "year": "2017",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Young Black America",
+            "album": "Wins & Losses",
+            "year": "2017",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Open",
+            "album": "Wins & Losses",
+            "year": "2017",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Ball Player",
+            "album": "Wins & Losses",
+            "year": "2017",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Made It From Nothing",
+            "album": "Wins & Losses",
+            "year": "2017",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Price",
+            "album": "Wins & Losses",
+            "year": "2017",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Dangerous",
+            "album": "Championships",
+            "year": "2018",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Trauma",
+            "album": "Championships",
+            "year": "2018",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Uptown Vibes",
+            "album": "Championships",
+            "year": "2018",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "On Me",
+            "album": "Championships",
+            "year": "2018",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "What's Free",
+            "album": "Championships",
+            "year": "2018",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Respect The Game",
+            "album": "Championships",
+            "year": "2018",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Splash Warning",
+            "album": "Championships",
+            "year": "2018",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Championships",
+            "album": "Championships",
+            "year": "2018",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Going Bad",
+            "album": "Championships",
+            "year": "2018",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Almost Slipped",
+            "album": "Championships",
+            "year": "2018",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Tic Tac Toe",
+            "album": "Championships",
+            "year": "2018",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "24/7",
+            "album": "Championships",
+            "year": "2018",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Oodles O' Noodles Babies",
+            "album": "Championships",
+            "year": "2018",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Pay You Back",
+            "album": "Championships",
+            "year": "2018",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "100 Summers",
+            "album": "Championships",
+            "year": "2018",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Wit The Shits (W.T.S)",
+            "album": "Championships",
+            "year": "2018",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Stuck in My Ways",
+            "album": "Championships",
+            "year": "2018",
+            "fetched": true
+        },
+        {
+            "artist": "Meek Mill",
+            "title": "Cold Hearted II",
+            "album": "Championships",
+            "year": "2018",
+            "fetched": true
+        }
+    ]
+}

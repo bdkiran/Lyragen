@@ -1,9 +1,9 @@
-from fileFunctions import fetchSongs, fetchAllArtistSongs, createUpdatedArtistFiles
+from fileFunctions import fetchSongs, fetchAllArtistSongs, scrollESDatabase, createUpdatedArtistFiles
 import json
 import os
 import glob
 
-saveLyricsFlag = False
+saveLyricsFlag = True
 
 # def findSongFiles():
 #     path = 'artists'
@@ -17,5 +17,6 @@ if __name__ == '__main__':
     #fetchSongs('data.json', saveLyricsFlag)
     # songFiles = findSongFiles()
     # for file in songFiles:
-    #     
-    #fetchAllArtistSongs('artists/allArtists.json')
+    #     fetchSongs(file, saveLyricsFlag)
+    #fetchSongs('artists/Jay-Z.json', saveLyricsFlag)
+    #scrollESDatabase()

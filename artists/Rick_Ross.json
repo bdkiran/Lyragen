@@ -1,0 +1,1110 @@
+{
+    "songList": [
+        {
+            "artist": "Rick Ross",
+            "title": "Intro",
+            "album": "Mastermind",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Push It",
+            "album": "Port Of Miami",
+            "year": "2006",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Blow",
+            "album": "Port Of Miami",
+            "year": "2006",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Hustlin'",
+            "album": "Port Of Miami",
+            "year": "2006",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Cross That Line",
+            "album": "Port Of Miami",
+            "year": "2006",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "I'm Bad",
+            "album": "Port Of Miami",
+            "year": "2006",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Boss",
+            "album": "Port Of Miami",
+            "year": "2006",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "For Da Low",
+            "album": "Port Of Miami",
+            "year": "2006",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Where My Money (I Need That)",
+            "album": "Port Of Miami",
+            "year": "2006",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Get Away",
+            "album": "Port Of Miami",
+            "year": "2006",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Hit U From The Back",
+            "album": "Port Of Miami",
+            "year": "2006",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "White House",
+            "album": "Port Of Miami",
+            "year": "2006",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Pots And Pans",
+            "album": "Port Of Miami",
+            "year": "2006",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "It's My Time",
+            "album": "Port Of Miami",
+            "year": "2006",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Street Life",
+            "album": "Port Of Miami",
+            "year": "2006",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Hustlin' (Remix)",
+            "album": "Port Of Miami",
+            "year": "2006",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "It Ain't A Problem",
+            "album": "Port Of Miami",
+            "year": "2006",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "I'm A G",
+            "album": "Port Of Miami",
+            "year": "2006",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Prayer",
+            "album": "Port Of Miami",
+            "year": "2006",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Trilla Intro",
+            "album": "Trilla",
+            "year": "2008",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "All I Have In This World (Japanese Denim)",
+            "album": "Trilla",
+            "year": "2008",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "The Boss",
+            "album": "Trilla",
+            "year": "2008",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Speedin'",
+            "album": "Trilla",
+            "year": "2008",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "We Shinin'",
+            "album": "Trilla",
+            "year": "2008",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Money Make Me Come",
+            "album": "Trilla",
+            "year": "2008",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "DJ Khaled Interlude",
+            "album": "Trilla",
+            "year": "2008",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "This Is The Life",
+            "album": "Trilla",
+            "year": "2008",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "This Me",
+            "album": "Trilla",
+            "year": "2008",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Here I Am",
+            "album": "Trilla",
+            "year": "2008",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Maybach Music",
+            "album": "Trilla",
+            "year": "2008",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Billionaire",
+            "album": "Trilla",
+            "year": "2008",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Luxury Tax",
+            "album": "Trilla",
+            "year": "2008",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Reppin' My City",
+            "album": "Trilla",
+            "year": "2008",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "I'm Only Human",
+            "album": "Trilla",
+            "year": "2008",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Ridin' Thru The Ghetto",
+            "album": "Trilla",
+            "year": "2008",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Mafia Music",
+            "album": "Deeper Than Rap",
+            "year": "2009",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Maybach Music 2",
+            "album": "Deeper Than Rap",
+            "year": "2009",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Magnificent",
+            "album": "Deeper Than Rap",
+            "year": "2009",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Yacht Club",
+            "album": "Deeper Than Rap",
+            "year": "2009",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Usual Suspects",
+            "album": "Deeper Than Rap",
+            "year": "2009",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "All I Really Want",
+            "album": "Deeper Than Rap",
+            "year": "2009",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Rich Off Cocaine",
+            "album": "Deeper Than Rap",
+            "year": "2009",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Lay Back",
+            "album": "Deeper Than Rap",
+            "year": "2009",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Murda Mami",
+            "album": "Deeper Than Rap",
+            "year": "2009",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Gunplay",
+            "album": "Deeper Than Rap",
+            "year": "2009",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Bossy Lady",
+            "album": "Deeper Than Rap",
+            "year": "2009",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Face",
+            "album": "Deeper Than Rap",
+            "year": "2009",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Valley Of Death",
+            "album": "Deeper Than Rap",
+            "year": "2009",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "In Cold Blood",
+            "album": "Deeper Than Rap",
+            "year": "2009",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Cigar Music",
+            "album": "Deeper Than Rap",
+            "year": "2009",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "MC Hammer",
+            "album": "Teflon Don",
+            "year": "2010",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "B.M.F. (Blowin' Money Fast)",
+            "album": "Teflon Don",
+            "year": "2010",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Super High",
+            "album": "Teflon Don",
+            "year": "2010",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "I'm Not A Star",
+            "album": "Teflon Don",
+            "year": "2010",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Free Mason",
+            "album": "Teflon Don",
+            "year": "2010",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Tears Of Joy",
+            "album": "Teflon Don",
+            "year": "2010",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Maybach Music III",
+            "album": "Teflon Don",
+            "year": "2010",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Live Fast, Die Young",
+            "album": "Teflon Don",
+            "year": "2010",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "No. 1",
+            "album": "Teflon Don",
+            "year": "2010",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Aston Martin Music",
+            "album": "Teflon Don",
+            "year": "2010",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "All The Money In The World",
+            "album": "Teflon Don",
+            "year": "2010",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Audio Meth",
+            "album": "Teflon Don",
+            "year": "2010",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Rich Forever",
+            "album": "God Forgives, I Don't",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Triple Beam Dreams",
+            "album": "God Forgives, I Don't",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Pray For Us",
+            "album": "God Forgives, I Don't",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Pirates",
+            "album": "God Forgives, I Don't",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "3 Kings",
+            "album": "God Forgives, I Don't",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Ashamed",
+            "album": "God Forgives, I Don't",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Maybach Music IV",
+            "album": "God Forgives, I Don't",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Sixteen",
+            "album": "God Forgives, I Don't",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Amsterdam",
+            "album": "God Forgives, I Don't",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Hold Me Back",
+            "album": "God Forgives, I Don't",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "So Sophisticated",
+            "album": "God Forgives, I Don't",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Presidential",
+            "album": "God Forgives, I Don't",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Touch'n You",
+            "album": "God Forgives, I Don't",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Diced Pineapples",
+            "album": "God Forgives, I Don't",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Ten Jesus Pieces",
+            "album": "God Forgives, I Don't",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Burn",
+            "album": "Hood Billionaire",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Rich Is Gangsta",
+            "album": "Mastermind",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Drug Dealers Dream",
+            "album": "Mastermind",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Shots Fired",
+            "album": "Mastermind",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Nobody",
+            "album": "Mastermind",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "The Devil Is A Lie",
+            "album": "Mastermind",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Mafia Music III",
+            "album": "Mastermind",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "War Ready",
+            "album": "Mastermind",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "What A Shame",
+            "album": "Mastermind",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Supreme",
+            "album": "Mastermind",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "BLK & WHT",
+            "album": "Mastermind",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Dope Bitch Skit",
+            "album": "Mastermind",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "In Vein",
+            "album": "Mastermind",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Sanctified",
+            "album": "Mastermind",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Walkin On Air",
+            "album": "Mastermind",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Thug Cry",
+            "album": "Mastermind",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Blessing In Disguise",
+            "album": "Mastermind",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Paradise Lost",
+            "album": "Mastermind",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "You Know I Got It (Reprise)",
+            "album": "Mastermind",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Hood Billionaire",
+            "album": "Hood Billionaire",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Coke Like The 80's",
+            "album": "Hood Billionaire",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Heavyweight",
+            "album": "Hood Billionaire",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Neighborhood Drug Dealer",
+            "album": "Hood Billionaire",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Phone Tap",
+            "album": "Hood Billionaire",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Trap Luv",
+            "album": "Hood Billionaire",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Elvis Presley BLVD",
+            "album": "Hood Billionaire",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Movin' Bass",
+            "album": "Hood Billionaire",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "If They Knew",
+            "album": "Hood Billionaire",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Quintessential",
+            "album": "Hood Billionaire",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Keep Doin' That (Rich Bitch)",
+            "album": "Hood Billionaire",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Nickel Rock",
+            "album": "Hood Billionaire",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Family Ties",
+            "album": "Hood Billionaire",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Brimstone",
+            "album": "Hood Billionaire",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Wuzzup",
+            "album": "Hood Billionaire",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Headache",
+            "album": "Hood Billionaire",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Foreclosures",
+            "album": "Black Market",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Money Dance",
+            "album": "Black Market",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Free Enterprise",
+            "album": "Black Market",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Smile Mama, Smile",
+            "album": "Black Market",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "One Of Us",
+            "album": "Black Market",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Silk Road",
+            "album": "Black Market",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Color Money",
+            "album": "Black Market",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Dope Dick",
+            "album": "Black Market",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Crocodile Python",
+            "album": "Black Market",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Ghostwriter",
+            "album": "Black Market",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Black Opium",
+            "album": "Black Market",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Can't Say No",
+            "album": "Black Market",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Peace Sign",
+            "album": "Black Market",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Very Best",
+            "album": "Black Market",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Sorry",
+            "album": "Black Market",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "D.O.P.E.",
+            "album": "Black Market",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Carol City",
+            "album": "Black Market",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Apple Of My Eye",
+            "album": "Rather You Than Me",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Santorini Greece",
+            "album": "Rather You Than Me",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Idols Become Rivals",
+            "album": "Rather You Than Me",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Trap Trap Trap",
+            "album": "Rather You Than Me",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Dead Presidents",
+            "album": "Rather You Than Me",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "She On My Dick",
+            "album": "Rather You Than Me",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "I Think She Like Me",
+            "album": "Rather You Than Me",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Powers That Be",
+            "album": "Rather You Than Me",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Game Ain't Based On Sympathy",
+            "album": "Rather You Than Me",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Scientology",
+            "album": "Rather You Than Me",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Lamborghini Doors",
+            "album": "Rather You Than Me",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Triple Platinum",
+            "album": "Rather You Than Me",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Maybach Music V",
+            "album": "Rather You Than Me",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Summer Seventeen",
+            "album": "Rather You Than Me",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Act A Fool",
+            "album": "Port Of Miami 2",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Turnpike Ike",
+            "album": "Port Of Miami 2",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Nobody's Favorite",
+            "album": "Port Of Miami 2",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Summer Reign",
+            "album": "Port Of Miami 2",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "White Lines",
+            "album": "Port Of Miami 2",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "BIG TYME",
+            "album": "Port Of Miami 2",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Bogus Charms",
+            "album": "Port Of Miami 2",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Rich Nigga Lifestyle",
+            "album": "Port Of Miami 2",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Born To Kill",
+            "album": "Port Of Miami 2",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Fascinated",
+            "album": "Port Of Miami 2",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "I Still Pray",
+            "album": "Port Of Miami 2",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Running The Streets",
+            "album": "Port Of Miami 2",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Vegas Residency",
+            "album": "Port Of Miami 2",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Maybach Music VI",
+            "album": "Port Of Miami 2",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Rick Ross",
+            "title": "Gold Roses",
+            "album": "Port Of Miami 2",
+            "year": "2019",
+            "fetched": false
+        }
+    ]
+}

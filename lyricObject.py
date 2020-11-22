@@ -1,8 +1,9 @@
 class LyricObject:
-    def __init__(self, artist, title):
+    def __init__(self, artist, title, lyricDocID=None):
             self.artist = artist
             self.title = title
             self.lineNumber = []
+            self.lyricDocID = lyricDocID
 
     def addLyric(self, lyric, line):
         self.lyric = lyric
@@ -17,7 +18,7 @@ class LyricObject:
     def addLine(self, line):
         self.lineNumber.append(line)
     
-    def createLyricLineID(self):
+    def createLyricDocID(self):
         #Lyric line ID should look like?:
         # artist@name#number.number
         lineString = ""
@@ -27,5 +28,5 @@ class LyricObject:
             else:
                 lineString = "{existingLineString}.{newLineNum}".format(existingLineString=lineString, newLineNum=lineNum)
         
-        self.lineID = "{artist}@{songTitle}#{lineStringNums}".format(artist=self.artist, songTitle=self.title, lineStringNums=lineString)
+        self.lyricDocID = "{artist}@{songTitle}#{lineStringNums}".format(artist=self.artist, songTitle=self.title, lineStringNums=lineString)
         

@@ -1,5 +1,12 @@
 {
     "artists" : [
+        "Cardi B",
+        "A$AP Rocky",
+        "2 Chainz",
+        "50 Cent"
+    ],
+
+    "RetrievedArtists": [
         "Migos",
         "Roddy Ricch",
         "Future",
@@ -17,6 +24,8 @@
         "Pop Smoke",
         "The Weeknd",
         "Kanye West",
-        "Kodak Black"
+        "Kodak Black",
+        "6ix9ine",
+        "21 Savage"
     ]
 }
