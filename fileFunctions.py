@@ -95,3 +95,38 @@ def getStoreArtistSongList(artistName):
 #     ES_API = Elasticsearch([{'host':'35.192.138.186','port':9200}])
 #     res = ES_API.delete_by_query(index='music_lyrics', body=(q))
 #     print(res)
+
+def createUpdatedArtistFiles():
+    fileName = "data.json"
+    with open(fileName) as readFile:
+        #Create hashmap of all artists
+        # filename(artist_name) [list of songs]
+        allArtistSongs = json.load(readFile)
+        allArtists = []
+        for song in allArtistSongs['songList']:
+            if song['artist'] in allArtists:
+                continue
+            else:
+                allArtists.append(song['artist'])
+        print(len(allArtists))
+        for artist in allArtists:
+            artistDict = {
+                "songList": []
+            }
+            for song in allArtistSongs['songList']:
+                if song['artist'] == artist:         
+                    newSong = {
+                        'artist': song['artist'],
+                        'title': song['title'],
+                        'album': "",
+                        'year': 0,
+                        'fetched': True
+                    }
+                    artistDict["songList"].append(newSong)
+                else:
+                    continue
+            fileName = "artists/"+ artist.lower().replace(" ", "_") + ".json"
+            with open(fileName, 'w') as outfile:
+                json.dump(artistDict, outfile, indent=4)
+
+        

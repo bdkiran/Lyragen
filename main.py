@@ -1,4 +1,4 @@
-from fileFunctions import fetchSongs, fetchAllArtistSongs
+from fileFunctions import fetchSongs, fetchAllArtistSongs, createUpdatedArtistFiles
 import json
 import os
 import glob
@@ -13,7 +13,8 @@ saveLyricsFlag = False
 #     return allFiles
 
 if __name__ == '__main__':
-    fetchSongs('data.json', saveLyricsFlag)
+    createUpdatedArtistFiles()
+    #fetchSongs('data.json', saveLyricsFlag)
     # songFiles = findSongFiles()
     # for file in songFiles:
     #     
