@@ -1,0 +1,935 @@
+{
+    "songList": [
+        {
+            "artist": "Tyga",
+            "title": "Diamond Life",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Coconut Juice",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Supersize Me",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Don't Regret It Now",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Pillow Talkin'",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "AIM",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "First Timers",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Cartoonz",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Summertime",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Press 7",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Woww",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "2 AM",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Est. (80's Baby)",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "I Am",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Rack City",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Make It Nasty",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Careless World",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Lil Homie",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Muthafucka Up",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Echoes Interlude",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Do It All",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "I'm Gone",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "For The Fame",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Birdman Interlude",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Potty Mouth",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Faded",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Black Crowns",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Celebration",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Far Away",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Mystic AKA Mado Kara Mieru Interlude",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "This Is Like",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "King & Queens",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Let It Show",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Love Game",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Lay You Down",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Light Dreams",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Still Got It",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "500 Degrees",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Dope",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Get Loose",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Diss Song",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Hit 'em Up",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Molly",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Fuck For The Road",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Show You",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "It Never Rains",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "M.O.E.",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Hijack",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Get Rich",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Enemies",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Drive Fast, Live Young",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Palm Trees",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Dad's Letter",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Don't Hate Tha Playa",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Westside",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Nothin' Like Me",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Ayo",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Girl You Loud",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Remember Me",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "I Bet",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "D.G.I.F.U.",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Better",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Lights Out",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Real One",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Bitches N Marijuana",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "She Goin' Up",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Wrong In The Right Way",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Bunkin'",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "It's Yo Shit",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Banjo",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Spitfire",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Muh Fucka",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Shaka Zulu",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "God Talk",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Hard For You",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Down For A Min",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Pure Luxury",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Wham",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Pleazer",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Hollywood Niggaz",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "4 My Dawgs",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Bloodline",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Feel Me",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Teterboro Flow",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Ski On The Slope",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Eyes Closed",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Move To L.A.",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Bel Air",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Run It Back",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Playboy",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Chandeliers",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Flossin",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Cash Splash Nasa",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "1 Of 1",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Gone Too Far",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Nann Nigga",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "100's",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Temperature",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Leather In The Rain",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Come And Ball Wit Me",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Boss Up",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "U Cry",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "King Of The Jungle",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Hard2Look",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "I Need A Girl, Pt. 3",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Train 4 This",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Hot Soup",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Sip A Lil",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Faithful",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Ja Rule & Ashanti",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Holdin On",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Too Many",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Lightskin Lil Wayne",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "On Me",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Stash",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Haute",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Werkkkk",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Maykherkhum",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Vibrate",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Shit I Like",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Legendary",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "February Love",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Goddamn (Remix)",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Taste",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Made Me",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Penthouse In Miami",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Love To Fuck",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Dip (Remix)",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Too Much",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Slidin",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Bop",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "SWISH",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Tyga",
+            "title": "Floss In The Bank",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        }
+    ]
+}

@@ -1,0 +1,620 @@
+{
+    "songList": [
+        {
+            "artist": "Mac Miller",
+            "title": "English Lane",
+            "album": "Blue Slide Park",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Blue Slide Park",
+            "album": "Blue Slide Park",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Party On Fifth Ave.",
+            "album": "Blue Slide Park",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "PA Nights",
+            "album": "Blue Slide Park",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Frick Park Market",
+            "album": "Blue Slide Park",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Smile Back",
+            "album": "Blue Slide Park",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Under The Weather",
+            "album": "Blue Slide Park",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Of The Soul",
+            "album": "Blue Slide Park",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "My Team",
+            "album": "Blue Slide Park",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Up All Night",
+            "album": "Blue Slide Park",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Loitering",
+            "album": "Blue Slide Park",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Diamonds & Gold",
+            "album": "Blue Slide Park",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Missed Calls",
+            "album": "Blue Slide Park",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Man In The Hat",
+            "album": "Blue Slide Park",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "One Last Thing",
+            "album": "Blue Slide Park",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "The Star Room",
+            "album": "Watching Movies With The Sound Off",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Avian",
+            "album": "Watching Movies With The Sound Off",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "I'm Not Real",
+            "album": "Watching Movies With The Sound Off",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "S.D.S.",
+            "album": "Watching Movies With The Sound Off",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Bird Call",
+            "album": "Watching Movies With The Sound Off",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Matches",
+            "album": "Watching Movies With The Sound Off",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "I Am Who Am (Killin' Time)",
+            "album": "Watching Movies With The Sound Off",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Objects In The Mirror",
+            "album": "Watching Movies With The Sound Off",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Red Dot Music",
+            "album": "Watching Movies With The Sound Off",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Gees",
+            "album": "Watching Movies With The Sound Off",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Watching Movies",
+            "album": "Watching Movies With The Sound Off",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Suplexes Inside Of Complexes And Duplexes",
+            "album": "Watching Movies With The Sound Off",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Remember",
+            "album": "Watching Movies With The Sound Off",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Someone Like You",
+            "album": "Watching Movies With The Sound Off",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Aquarium",
+            "album": "Watching Movies With The Sound Off",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Youforia",
+            "album": "Watching Movies With The Sound Off",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Goosebumpz",
+            "album": "Watching Movies With The Sound Off",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "O.K.",
+            "album": "Watching Movies With The Sound Off",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Claymation",
+            "album": "Watching Movies With The Sound Off",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Doors",
+            "album": "GO:OD AM",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Brand Name",
+            "album": "GO:OD AM",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Rush Hour",
+            "album": "GO:OD AM",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Two Matches",
+            "album": "GO:OD AM",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "100 Grandkids",
+            "album": "GO:OD AM",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Time Flies",
+            "album": "GO:OD AM",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Weekend",
+            "album": "GO:OD AM",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Clubhouse",
+            "album": "GO:OD AM",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "In The Bag",
+            "album": "GO:OD AM",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Break The Law",
+            "album": "GO:OD AM",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Perfect Circle / God Speed",
+            "album": "GO:OD AM",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "When In Rome",
+            "album": "GO:OD AM",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "ROS",
+            "album": "GO:OD AM",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Cut The Check",
+            "album": "GO:OD AM",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Ascension",
+            "album": "GO:OD AM",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Jump",
+            "album": "GO:OD AM",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "The Festival",
+            "album": "GO:OD AM",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Congratulations",
+            "album": "The Divine Feminine",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Dang!",
+            "album": "The Divine Feminine",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Stay",
+            "album": "The Divine Feminine",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Skin",
+            "album": "The Divine Feminine",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Cinderella",
+            "album": "The Divine Feminine",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Planet God Damn",
+            "album": "The Divine Feminine",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Soulmate",
+            "album": "The Divine Feminine",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "We",
+            "album": "The Divine Feminine",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "My Favorite Part",
+            "album": "The Divine Feminine",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "God Is Fair, Sexy Nasty",
+            "album": "The Divine Feminine",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Come Back To Earth",
+            "album": "Swimming",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Hurt Feelings",
+            "album": "Swimming",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "What's The Use?",
+            "album": "Swimming",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Perfecto",
+            "album": "Swimming",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Self Care",
+            "album": "Swimming",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Wings",
+            "album": "Swimming",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Ladders",
+            "album": "Swimming",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Small Worlds",
+            "album": "Swimming",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Conversation Pt. 1",
+            "album": "Swimming",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Dunno",
+            "album": "Swimming",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Jet Fuel",
+            "album": "Swimming",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "2009",
+            "album": "Swimming",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "So It Goes",
+            "album": "Swimming",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Circles",
+            "album": "Circles",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Complicated",
+            "album": "Circles",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Blue World",
+            "album": "Circles",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Good News",
+            "album": "Circles",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "I Can See",
+            "album": "Circles",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Everybody",
+            "album": "Circles",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Woods",
+            "album": "Circles",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Hand Me Downs",
+            "album": "Circles",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "That's On Me",
+            "album": "Circles",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Hands",
+            "album": "Circles",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Surf",
+            "album": "Circles",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Once A Day",
+            "album": "Circles",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Right",
+            "album": "Circles",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Mac Miller",
+            "title": "Floating",
+            "album": "Circles",
+            "year": "2020",
+            "fetched": false
+        }
+    ]
+}

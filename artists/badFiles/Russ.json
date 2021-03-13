@@ -1,0 +1,865 @@
+{
+    "songList": [
+        {
+            "artist": "Russ",
+            "title": "Blue Hope",
+            "album": "Velvet",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Vision",
+            "album": "Velvet",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "In My Mind",
+            "album": "Velvet",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Battle",
+            "album": "Velvet",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Skyline",
+            "album": "Velvet",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Velvet",
+            "album": "Velvet",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "High Def",
+            "album": "Velvet",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Princess Jasmine",
+            "album": "Velvet",
+            "year": "2011",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Apollo 13",
+            "album": "Apollo 13",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Jungle",
+            "album": "Apollo 13",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Space",
+            "album": "Apollo 13",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Castles",
+            "album": "Apollo 13",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "The One",
+            "album": "Straight From Limbo",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Corleone",
+            "album": "Straight From Limbo",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Amazon",
+            "album": "Straight From Limbo",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Streetlights",
+            "album": "Straight From Limbo",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Batcave",
+            "album": "Straight From Limbo",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Coup D'etat",
+            "album": "Straight From Limbo",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Let Me Live",
+            "album": "Straight From Limbo",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "The Ceremony",
+            "album": "5280",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "The King",
+            "album": "5280",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "atLAnta",
+            "album": "5280",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Walk A Mile",
+            "album": "5280",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "V.V.V.",
+            "album": "5280",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "5280",
+            "album": "5280",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "World On Fire",
+            "album": "5280",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Lost In Lights",
+            "album": "5280",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Live Slow Or Die Fast",
+            "album": "5280",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Set Me Free",
+            "album": "5280",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "The Pretender",
+            "album": "5280",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Flashbacks",
+            "album": "5280",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Vacation",
+            "album": "Vacation",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Maniac",
+            "album": "Vacation",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Let Me Know",
+            "album": "Vacation",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Reality Kings",
+            "album": "Vacation",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Zero",
+            "album": "Vacation",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Wassup",
+            "album": "Vacation",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "The Boss",
+            "album": "Vacation",
+            "year": "2012",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Snow White & the Incredible Hulk",
+            "album": "The Edge",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Yung Pacino",
+            "album": "The Edge",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Montana",
+            "album": "The Edge",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "New Home",
+            "album": "The Edge",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Settle Down",
+            "album": "The Edge",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Mad",
+            "album": "The Edge",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Gorilla Windmill",
+            "album": "The Edge",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Speak Spanish",
+            "album": "The Edge",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Choosin",
+            "album": "The Edge",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Give It To Me",
+            "album": "The Edge",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Tip Toe",
+            "album": "The Edge",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Mutombo",
+            "album": "The Edge",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Go And Get Famous",
+            "album": "The Edge",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "The Getaway",
+            "album": "The Edge",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Hope You Make The Right Move",
+            "album": "The Edge",
+            "year": "2013",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Murder Me",
+            "album": "Brain Dead",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Celebrity",
+            "album": "Brain Dead",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "I Can't Lie",
+            "album": "Silence",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Lately",
+            "album": "Silence",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Yellow",
+            "album": "Silence",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "90s Babies",
+            "album": "Silence",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Army",
+            "album": "Silence",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Comin Thru",
+            "album": "Silence",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Connected",
+            "album": "Silence",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Gypsy",
+            "album": "Silence",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Keep The Faith",
+            "album": "Silence",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "All My Angels",
+            "album": "Silence",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Naked",
+            "album": "Silence",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Paulo Coelho",
+            "album": "Silence",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Brush Me",
+            "album": "Silence",
+            "year": "2014",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "I'm Here",
+            "album": "There's Really A Wolf",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "The Stakeout",
+            "album": "There's Really A Wolf",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Act Now",
+            "album": "There's Really A Wolf",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Cherry Hill",
+            "album": "There's Really A Wolf",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Me You",
+            "album": "There's Really A Wolf",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Ride Slow",
+            "album": "There's Really A Wolf",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Don't Lie",
+            "album": "There's Really A Wolf",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Do It Myself",
+            "album": "There's Really A Wolf",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "I Wanna Go Down With You",
+            "album": "There's Really A Wolf",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Family & Friends",
+            "album": "There's Really A Wolf",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "What They Want",
+            "album": "There's Really A Wolf",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Got This",
+            "album": "There's Really A Wolf",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "No Turning Back",
+            "album": "There's Really A Wolf",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Losin Control",
+            "album": "There's Really A Wolf",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Scared",
+            "album": "There's Really A Wolf",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Back To You",
+            "album": "There's Really A Wolf",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "One More Shot",
+            "album": "There's Really A Wolf",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Emergency",
+            "album": "There's Really A Wolf",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Pull The Trigger",
+            "album": "There's Really A Wolf",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "MVP",
+            "album": "There's Really A Wolf",
+            "year": "2017",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "The Flute Song",
+            "album": "ZOO",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Outlaw",
+            "album": "ZOO",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Kill Them All",
+            "album": "ZOO",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Missin You Crazy",
+            "album": "ZOO",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Voicemail",
+            "album": "ZOO",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Parkstone Drive",
+            "album": "ZOO",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Begging You",
+            "album": "ZOO",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Serious",
+            "album": "ZOO",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Keep My Wits",
+            "album": "ZOO",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Our Time",
+            "album": "ZOO",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "From A Distance",
+            "album": "ZOO",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Last Forever",
+            "album": "ZOO",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Keep It Pushin'",
+            "album": "ZOO",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Fuck That",
+            "album": "ZOO",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Need A Minute",
+            "album": "Shake The Snow Globe",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Guess What",
+            "album": "Shake The Snow Globe",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "A Lot More",
+            "album": "Shake The Snow Globe",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Can't Go On",
+            "album": "Shake The Snow Globe",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Asshole",
+            "album": "Shake The Snow Globe",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Nighttime (Interlude)",
+            "album": "Shake The Snow Globe",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "All To You",
+            "album": "Shake The Snow Globe",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Shots",
+            "album": "Shake The Snow Globe",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Patience",
+            "album": "Shake The Snow Globe",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "I Thought You Got Me",
+            "album": "Shake The Snow Globe",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Foot On The Gas",
+            "album": "Shake The Snow Globe",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Momma",
+            "album": "Shake The Snow Globe",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Civil War",
+            "album": "Shake The Snow Globe",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Best On Earth",
+            "album": "Shake The Snow Globe",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "3AM",
+            "album": "Shake The Snow Globe",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Sky",
+            "album": "Shake The Snow Globe",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "You Coulda Left Me Alone",
+            "album": "Shake The Snow Globe",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "No Tears Left",
+            "album": "Shake The Snow Globe",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "2006",
+            "album": "Shake The Snow Globe",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Summer At 7",
+            "album": "Shake The Snow Globe",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Russ",
+            "title": "Paranoid",
+            "album": "Shake The Snow Globe",
+            "year": "2020",
+            "fetched": false
+        }
+    ]
+}

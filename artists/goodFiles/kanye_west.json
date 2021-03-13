@@ -1,0 +1,984 @@
+{
+    "songList": [
+        {
+            "artist": "Kanye West",
+            "title": "Stronger",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "I Wonder",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Good Life",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Can't Tell Me Nothing",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Barry Bonds",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Drunk & Hot Girls",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Flashing Lights",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Everything I Am",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "The Glory",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Homecoming",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Big Brother",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Good Night",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Bittersweet Poetry",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Can't Tell Me Nothing (Remix)",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Say You Will",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Welcome To Heartbreak",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Heartless",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Amazing",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Love Lockdown",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Paranoid",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "RoboCop",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Street Lights",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Bad News",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "See You In My Nightmares",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Coldest Winter",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Pinocchio Story",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Dark Fantasy",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Gorgeous",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Power",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "All Of The Lights",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Monster",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "So Appalled",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Devil In A New Dress",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Runaway",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Hell Of A Life",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Blame Game",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Lost In The World",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Who Will Survive In America",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "See Me Now",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "No Church In The Wild",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Lift Off",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Niggas In Paris",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Otis",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Gotta Have It",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "New Day",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "That's My Bitch",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Welcome To The Jungle",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Who Gon Stop Me",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Murder To Excellence",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Made In America",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Why I Love You",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Illest Motherfucker Alive",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "H.A.M",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Primetime",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "The Joy",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "To The World",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Clique",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Mercy",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "New God Flow",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "The Morning",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Cold",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Higher",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Sin City",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "The One",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Creepers",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Bliss",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "I Don't Like",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "On Sight",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Black Skinhead",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "I Am A God",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "New Slaves",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Hold My Liquor",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "I'm In It",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Blood On The Leaves",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Guilt Trip",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Send It Up",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Bound 2",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Ultralight Beam",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Father Stretch My Hands Pt. 1",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Father Stretch My Hands Pt. 2",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Famous",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Feedback",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Low Lights",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Highlights",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Freestyle 4",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "I Love Kanye",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Waves",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "FML",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Real Friends",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Wolves",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Frank's Track",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "30 Hours",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "No More Parties In LA",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Facts (Charlie Heat Version)",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Fade",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Saint Pablo",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Intro",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "We Don't Care",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Graduation Day",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "All Falls Down",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "I'll Fly Away",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Spaceship",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Jesus Walks",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Never Let Me Down",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Get Em High",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Workout Plan",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "The New Workout Plan",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Slow Jamz",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Breathe In Breathe Out",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "School Spirit Skit 1",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "School Spirit",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "School Spirit Skit 2",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Lil Jimmy Skit",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Two Words",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Through The Wire",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Family Business",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Last Call",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Wake Up Mr. West",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Heard 'Em Say",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Touch The Sky",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Gold Digger",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Skit #1",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Drive Slow",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "My Way Home",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Crack Music",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Roses",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Bring Me Down",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Addiction",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Skit #2",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Diamonds From Sierra Leone (Remix)",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "We Major",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Skit #3",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Hey Mama",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Celebration",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Skit #4",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Gone",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Diamonds From Sierra Leone",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Late",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Good Morning",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Kanye West",
+            "title": "Champion",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        }
+    ]
+}

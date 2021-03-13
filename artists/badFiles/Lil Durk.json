@@ -1,0 +1,319 @@
+{
+    "songList": [
+        {
+            "artist": "Lil Durk",
+            "title": "500 Homicides",
+            "album": "Remember My Name",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Amber Alert",
+            "album": "Remember My Name",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Like Me",
+            "album": "Remember My Name",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Lord Don't Make Me Do It",
+            "album": "Remember My Name",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Don't Judge Me",
+            "album": "Remember My Name",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Tryna' Tryna'",
+            "album": "Remember My Name",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Higher",
+            "album": "Remember My Name",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Resume",
+            "album": "Remember My Name",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "What Your Life Like",
+            "album": "Remember My Name",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Why Me",
+            "album": "Remember My Name",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Ghetto (Grew Up)",
+            "album": "Remember My Name",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Remember My Name",
+            "album": "Remember My Name",
+            "year": "2015",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Make It Back",
+            "album": "Lil Durk 2x",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "My Beyonc\u00e9",
+            "album": "Lil Durk 2x",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Check",
+            "album": "Lil Durk 2x",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "LilDurk2x",
+            "album": "Lil Durk 2x",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Hated On Me",
+            "album": "Lil Durk 2x",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "So What",
+            "album": "Lil Durk 2x",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "She Just Wanna",
+            "album": "Lil Durk 2x",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Money Walk",
+            "album": "Lil Durk 2x",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Glock Up",
+            "album": "Lil Durk 2x",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Rich Nigga",
+            "album": "Lil Durk 2x",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "True",
+            "album": "Lil Durk 2x",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Set It Off",
+            "album": "Lil Durk 2x",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Super Powers",
+            "album": "Lil Durk 2x",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Good Good",
+            "album": "Lil Durk 2x",
+            "year": "2016",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Home Body",
+            "album": "Signed To The Streets 3",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Rockstar",
+            "album": "Signed To The Streets 3",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Treacherous",
+            "album": "Signed To The Streets 3",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Spin The Block",
+            "album": "Signed To The Streets 3",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Neighborhood Hero",
+            "album": "Signed To The Streets 3",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "100 Grand",
+            "album": "Signed To The Streets 3",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Habit",
+            "album": "Signed To The Streets 3",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Skrubs",
+            "album": "Signed To The Streets 3",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Play With Us",
+            "album": "Signed To The Streets 3",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Preach",
+            "album": "Signed To The Streets 3",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "India, Pt. II",
+            "album": "Signed To The Streets 3",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Spazz",
+            "album": "Signed To The Streets 3",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Benihana",
+            "album": "Signed To The Streets 3",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "I Know",
+            "album": "Signed To The Streets 3",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Astronomical",
+            "album": "Signed To The Streets 3",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Downfall",
+            "album": "Signed To The Streets 3",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Did For The Streets",
+            "album": "Signed To The Streets 3",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Is What It Is",
+            "album": "Signed To The Streets 3",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Lil Durk",
+            "title": "Way More",
+            "album": "Signed To The Streets 3",
+            "year": "2018",
+            "fetched": false
+        }
+    ]
+}

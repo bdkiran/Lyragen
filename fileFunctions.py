@@ -21,6 +21,7 @@ def fetchSongs(filename, saveFile):
     else:
         fetchSongsFromFile(filename, None)
 
+
 def fetchSongsFromFile(filename, esApi):
     with open(filename) as json_file:
         songsData = json.load(json_file)
@@ -40,6 +41,26 @@ def fetchSongsFromFile(filename, esApi):
                     for o in objectList:
                         o.createLyricDocID()
                         print(o.__dict__)
+
+def fetchTupleSong(tup):
+    ES_API = Elasticsearch([{'host':'192.168.1.40','port':9200}])
+    songData = {
+        "artist": tup[2],
+        "title": tup[1]
+    }
+    #Transform tuple to dict
+    lyricArray = getCleanedLyrics(songData, 1)
+    if lyricArray == None:
+        return False
+    objectList = createDataForStorage(songData, lyricArray)
+    storeSongInEs(ES_API, objectList)
+    # print("lyrics: " + str(len(lyricArray)))
+    # print("Objects: " + str(len(objectList)))
+    # for o in objectList:
+    #     o.createLyricDocID()
+    #     print(o.__dict__)
+    return True
+
                     
 
 def writeToFile(filename, data):
@@ -87,7 +108,7 @@ def getStoreArtistSongList(artistName):
     data = getArtistSongList(artistName, 1)
     if (data == None):
         return
-    fileName = "artists/"+ artistName + ".json"
+    fileName = "artists/"+ artist.lower().replace(" ", "_") + ".json"
     with open(fileName, 'w') as outfile:
         json.dump(data, outfile, indent=4)
 
@@ -100,7 +121,7 @@ def getStoreArtistSongList(artistName):
 #     print(res)
 
 def createUpdatedArtistFiles():
-    fileName = "data.json"
+    fileName = "allSongs.json"
     with open(fileName) as readFile:
         #Create hashmap of all artists
         # filename(artist_name) [list of songs]
@@ -111,7 +132,8 @@ def createUpdatedArtistFiles():
                 continue
             else:
                 allArtists.append(song['artist'])
-        print(len(allArtists))
+        print(allArtists)
+
         for artist in allArtists:
             artistDict = {
                 "songList": []

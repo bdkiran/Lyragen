@@ -1,0 +1,445 @@
+{
+    "songList": [
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Oh Fuck",
+            "album": "RESET",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Say Na",
+            "album": "RESET",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "They Madd",
+            "album": "RESET",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Chanel Junkie",
+            "album": "RESET",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Midnight Patek",
+            "album": "RESET",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "In Her Voice",
+            "album": "RESET",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "RESET",
+            "album": "RESET",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Lower Level",
+            "album": "RESET",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Curry Jersey",
+            "album": "RESET",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Jungle",
+            "album": "RESET",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Fall Down",
+            "album": "RESET",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Industry",
+            "album": "RESET",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "OKAY",
+            "album": "RESET",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Tryna Do",
+            "album": "RESET",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "7even",
+            "album": "RESET",
+            "year": "2018",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Relentless Again",
+            "album": "43VA HEARTLESS",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Drais",
+            "album": "43VA HEARTLESS",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Dior",
+            "album": "43VA HEARTLESS",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Part Of Da Game",
+            "album": "43VA HEARTLESS",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "4 Da Moment",
+            "album": "43VA HEARTLESS",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Toxic",
+            "album": "43VA HEARTLESS",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Style Ain't Free",
+            "album": "43VA HEARTLESS",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "On My Soul",
+            "album": "43VA HEARTLESS",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "No Filter",
+            "album": "43VA HEARTLESS",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Commotion",
+            "album": "43VA HEARTLESS",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Blac Money",
+            "album": "43VA HEARTLESS",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Wat3va I'm Wit",
+            "album": "43VA HEARTLESS",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Headstrong",
+            "album": "43VA HEARTLESS",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Word 4 Word",
+            "album": "43VA HEARTLESS",
+            "year": "2019",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Speak 4 Em",
+            "album": "Time Served",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "U Played",
+            "album": "Time Served",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Pop My Shit",
+            "album": "Time Served",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Pistol By Da Bed",
+            "album": "Time Served",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "1 2 3",
+            "album": "Time Served",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Match My Fly",
+            "album": "Time Served",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Thinking Out Loud",
+            "album": "Time Served",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Federal Fed",
+            "album": "Time Served",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Bitch",
+            "album": "Time Served",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Protect Da Brand",
+            "album": "Time Served",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Thug Cry",
+            "album": "Time Served",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Dem People Freestyle",
+            "album": "Time Served",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Real Luv",
+            "album": "Time Served",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Spin On Em",
+            "album": "Time Served",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "All Dat",
+            "album": "Time Served",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Issa No (375 Flow)",
+            "album": "Time Served",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Kut Like Dat",
+            "album": "Time Served",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Boffum",
+            "album": "Time Served",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Cold Shoulder",
+            "album": "Time Served",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "No Chill",
+            "album": "Time Served",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Yomii",
+            "album": "Time Served",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Birthplace",
+            "album": "Code Red",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Super Hot",
+            "album": "Code Red",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Said Sum",
+            "album": "Code Red",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Truth Be Told",
+            "album": "Code Red",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "New Chain",
+            "album": "Code Red",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Trickin Ass Nigga",
+            "album": "Code Red",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Brain Dead",
+            "album": "Code Red",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Gun Smoke",
+            "album": "Code Red",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Blind",
+            "album": "Code Red",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Demons",
+            "album": "Code Red",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "Said Sum (Remix)",
+            "album": "Code Red",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "You Can See",
+            "album": "Code Red",
+            "year": "2020",
+            "fetched": false
+        },
+        {
+            "artist": "Moneybagg Yo",
+            "title": "SRT",
+            "album": "Code Red",
+            "year": "2020",
+            "fetched": false
+        }
+    ]
+}

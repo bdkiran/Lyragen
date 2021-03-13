@@ -1,0 +1,655 @@
+{
+    "songList": [
+        {
+            "artist": "Big Sean",
+            "title": "I Do It",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "My Last",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Don't Tell Me You Love Me",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Wait For Me",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Marvin & Chardonnay",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Dance (A$$)",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Get It (DT)",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Memories (Part II)",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "High",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Live This Life",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "So Much More",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "What Goes Around",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Celebrity",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "My House",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "100 Keys",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Nothing Is Stopping You",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Fire",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "10 2 10",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Toyota Music",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "You Don't Know",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Beware",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "First Chain",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Mona Lisa",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Freaky",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "MILF",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Sierra Leone / Greedy Ho's",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "It's Time",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "World Ablaze",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Ashley",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "All Figured Out",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Mula (Remix)",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Switch Up",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Guap",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Dark Sky (Skyscrapers)",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Blessings",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "All Your Fault",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "I Don't Fuck With You",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Play No Games",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Paradise (Extended)",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Win Some, Lose Some",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Stay Down",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "I Know",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Deep",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "One Man Can Change The World",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Outro",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Deserve It",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Research",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Platinum & Wood",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Light",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Bounce Back",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "No Favors",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Jump Out The Window",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Moves",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Same Time Pt. 1",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Owe Me",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Halfway Off The Balcony",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Voices In My Head / Stick To The Plan",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Sunday Morning Jetpack",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Inspire Me",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Sacrifices",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Bigger Than Me",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Go Legend",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Big Bidness",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Who's Stopping Me",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Pull Up N Wreck",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "So Good",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Savage Time",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Even The Odds",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "In Tune",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Reason",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "No Hearts, No Love",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Why Would I Stop?",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Lucky Me",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Deep Reverence",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Wolves",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Body Language",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Story By Dave Chappelle",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Harder Than My Demons",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Everything That's Missing",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "ZTFO",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Guard Your Heart",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Respect It",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Lithuania",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Full Circle",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Time In",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Story By Erykah Badu",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "FEED",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "The Baddest",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Don Life",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Friday Night Cypher",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Story By Stevie Wonder",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Still I Rise",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        },
+        {
+            "artist": "Big Sean",
+            "title": "Intro",
+            "album": "",
+            "year": 0,
+            "fetched": true
+        }
+    ]
+}

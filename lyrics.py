@@ -27,7 +27,7 @@ def getLyricsFromAPI(songData, retries):
             azAPI.title = songData['title']
             res = azAPI.getLyrics(save=False, sleep=10)
             if type(res) == int:
-                raise ValueError('Unable to fetch lyrics. API error code: ' + str(res))
+                raise ValueError('API error code: ' + str(res))
             return azAPI.lyrics.splitlines()
         except ValueError as error:
             print(error)
